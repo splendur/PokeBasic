@@ -1,0 +1,8173 @@
+[{
+	"Url": "http://serebii.net/duel/figures/1-dialga.shtml",
+	"Name": "Dialga",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Roar of Time",
+		"Notes": "Return the opponent to their start of the duel state",
+		"Type": "White",
+		"Damage": "130"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Dragon Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}],
+	"Id": "1"
+}, {
+	"Url": "http://serebii.net/duel/figures/2-tauros.shtml",
+	"Name": "Tauros",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Take Down",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "80"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Kick Away",
+		"Notes": "The battle opponent is knocked 2 steps back (the opponent chooses the point) and gains Wait",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "2"
+}, {
+	"Url": "http://serebii.net/duel/figures/3-armaldo.shtml",
+	"Name": "Armaldo",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Aqua Jet",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait.",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Pierce Through",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "130"
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Iron Tail",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}],
+	"Id": "3"
+}, {
+	"Url": "http://serebii.net/duel/figures/4-charmander.shtml",
+	"Name": "Charmander",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Flamethrower",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Smokescreen",
+		"Notes": "The battle opponent now has Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "4"
+}, {
+	"Url": "http://serebii.net/duel/figures/5-mightyena.shtml",
+	"Name": "Mightyena",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Taunt",
+		"Notes": "If this Pokémon or the opponent Pokémon spins purple, they must respin for that turn.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Crunch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "5"
+}, {
+	"Url": "http://serebii.net/duel/figures/6-ekans.shtml",
+	"Name": "Ekans",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Wrap",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Spit Poison",
+		"Notes": "The battle opponent becomes poisoned.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Wrap",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "6"
+}, {
+	"Url": "http://serebii.net/duel/figures/7-bayleef.shtml",
+	"Name": "Bayleef",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Poison Powder",
+		"Notes": "The battle opponent becomes poisoned.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Body Slam",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "7"
+}, {
+	"Url": "http://serebii.net/duel/figures/8-snubbull.shtml",
+	"Name": "Snubbull",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Roar",
+		"Notes": "The battle opponent is knocked 1 step back (the opponent chooses the point) and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Paw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "8"
+}, {
+	"Url": "http://serebii.net/duel/figures/9-plusle.shtml",
+	"Name": "Plusle",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "48",
+		"Name": "Spark",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "9"
+}, {
+	"Url": "http://serebii.net/duel/figures/10-seedot.shtml",
+	"Name": "Seedot",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Explosion",
+		"Notes": "This Pokémon and all neighbour Pokémon faint",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Bullet Seed",
+		"Notes": "Spin again until Bullet Seed does not land - damage is multiplied by the number of Bullet Seed spins",
+		"Type": "White",
+		"Damage": "20x"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "10"
+}, {
+	"Url": "http://serebii.net/duel/figures/11-metagross.shtml",
+	"Name": "Metagross",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Metal Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Hyper Beam",
+		"Notes": "If the battle opponent is knocked out, the next turn will always be the other player's",
+		"Type": "White",
+		"Damage": "150"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Metal Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Bullet Punch",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "30"
+	}],
+	"Id": "11"
+}, {
+	"Url": "http://serebii.net/duel/figures/12-sentret.shtml",
+	"Name": "Sentret",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Step Away",
+		"Notes": "This Pokémon moves 1-3 steps back.",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Tail Smack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "12"
+}, {
+	"Url": "http://serebii.net/duel/figures/13-golem.shtml",
+	"Name": "Golem",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Rock Throw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Rock Blast",
+		"Notes": "Spin again until Rock Blast does not land - damage is multiplied by the number of Rock Blast spins",
+		"Type": "White",
+		"Damage": "60x"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Rockwall",
+		"Notes": "If the battle opponent's Attack is below 120 damage, this Pokémon cannot be Knocked out.",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "13"
+}, {
+	"Url": "http://serebii.net/duel/figures/14-spinarak.shtml",
+	"Name": "Spinarak",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Poison Sting",
+		"Notes": "The battle opponent becomes poisoned.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Constrict",
+		"Notes": "The battle opponent now has Wait.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "14"
+}, {
+	"Url": "http://serebii.net/duel/figures/15-aipom.shtml",
+	"Name": "Aipom",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Tail Smack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}],
+	"Id": "15"
+}, {
+	"Url": "http://serebii.net/duel/figures/16-sandshrew.shtml",
+	"Name": "Sandshrew",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Slash",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Slash",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Defense Curl",
+		"Notes": "If the battle opponent's Attack is below 50 damage, this Pokémon cannot be Knocked out.",
+		"Type": "White",
+		"Damage": "0"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "16"
+}, {
+	"Url": "http://serebii.net/duel/figures/17-murkrow.shtml",
+	"Name": "Murkrow",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Sucker Punch",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Whirlwind",
+		"Notes": "The battle opponent is moved back to the bench and gains Wait",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Astonish",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "17"
+}, {
+	"Url": "http://serebii.net/duel/figures/18-caterpie.shtml",
+	"Name": "Caterpie",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "52",
+		"Name": "String Wrap",
+		"Notes": "Attaches an MP-1 marker to the battle opponent",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}],
+	"Id": "18"
+}, {
+	"Url": "http://serebii.net/duel/figures/19-mudkip.shtml",
+	"Name": "Mudkip",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "48",
+		"Name": "Water Gun",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Take Down",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "19"
+}, {
+	"Url": "http://serebii.net/duel/figures/20-bidoof.shtml",
+	"Name": "Bidoof",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "44",
+		"Name": "Cut",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Rock Smash",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "20"
+}, {
+	"Url": "http://serebii.net/duel/figures/21-steelix.shtml",
+	"Name": "Steelix",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Iron Tail",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Screech",
+		"Notes": "All neighbour Pokémon now have Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Crunch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Explosion",
+		"Notes": "This Pokémon and all neighbour Pokémon faint",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "21"
+}, {
+	"Url": "http://serebii.net/duel/figures/22-marill.shtml",
+	"Name": "Marill",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Water Gun",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Rollout",
+		"Notes": "Spin again until Rollout does not land - damage is multiplied by the number of Rollout spins",
+		"Type": "White",
+		"Damage": "30x"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "22"
+}, {
+	"Url": "http://serebii.net/duel/figures/23-raticate.shtml",
+	"Name": "Raticate",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Hyper Fang",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "64",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "23"
+}, {
+	"Url": "http://serebii.net/duel/figures/24-machop.shtml",
+	"Name": "Machop",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Focus Punch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "24"
+}, {
+	"Url": "http://serebii.net/duel/figures/25-luxray.shtml",
+	"Name": "Luxray",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Roar",
+		"Notes": "The battle opponent is knocked 1 step back (the opponent chooses the point) and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Crunch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "25"
+}, {
+	"Url": "http://serebii.net/duel/figures/26-poliwag.shtml",
+	"Name": "Poliwag",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Bubble",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Hypnosis",
+		"Notes": "The battle opponent falls asleep.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Bubble",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "26"
+}, {
+	"Url": "http://serebii.net/duel/figures/27-teddiursa.shtml",
+	"Name": "Teddiursa",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "48",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Feint Attack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Fake Tears",
+		"Notes": "Spin again until an attack other than Fake Tears is spun. Damage attacks deal +20 damage,",
+		"Type": "White",
+		"Damage": "0"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "27"
+}, {
+	"Url": "http://serebii.net/duel/figures/28-tyrogue.shtml",
+	"Name": "Tyrogue",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "High Jump Kick",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "72",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "28"
+}, {
+	"Url": "http://serebii.net/duel/figures/29-chespin.shtml",
+	"Name": "Chespin",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Vine Whip",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Vine Whip",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait.",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "29"
+}, {
+	"Url": "http://serebii.net/duel/figures/30-lugia.shtml",
+	"Name": "Lugia",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Aeroblast",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Hurricane",
+		"Notes": "The battle opponent is moved to the bench and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Aeroblast",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "30"
+}, {
+	"Url": "http://serebii.net/duel/figures/31-shinx.shtml",
+	"Name": "Shinx",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "64",
+		"Name": "Spark",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Blind",
+		"Notes": "This Pokémon moves 1-2 steps back",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "31"
+}, {
+	"Url": "http://serebii.net/duel/figures/32-aron.shtml",
+	"Name": "Aron",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Big Bite",
+		"Notes": "If the battle opponent's type is Steel, this Pokémon takes no damage and the opponent is knocked out.",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait.",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "32"
+}, {
+	"Url": "http://serebii.net/duel/figures/33-emolga.shtml",
+	"Name": "Emolga",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Thunder Shock",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Volt Switch",
+		"Notes": "This Pokémon switches with a Pokémon on your bench.",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "33"
+}, {
+	"Url": "http://serebii.net/duel/figures/34-doduo.shtml",
+	"Name": "Doduo",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Peck",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Fury Attack",
+		"Notes": "Spin again until Fury Attack does not land - damage is multiplied by the number of Fury Attack spins",
+		"Type": "White",
+		"Damage": "20x"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Peck",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "34"
+}, {
+	"Url": "http://serebii.net/duel/figures/35-treecko.shtml",
+	"Name": "Treecko",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Pound",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Slam",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "35"
+}, {
+	"Url": "http://serebii.net/duel/figures/36-heracross.shtml",
+	"Name": "Heracross",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Horn Attack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Overhead Toss",
+		"Notes": "The opponent is moved 1 step behind this Pokémon",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "36"
+}, {
+	"Url": "http://serebii.net/duel/figures/37-deino.shtml",
+	"Name": "Deino",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait.",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "37"
+}, {
+	"Url": "http://serebii.net/duel/figures/39-squirtle.shtml",
+	"Name": "Squirtle",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Bubble",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Withdraw",
+		"Notes": "This Pokémon gains Wait.",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "39"
+}, {
+	"Url": "http://serebii.net/duel/figures/40-meowth.shtml",
+	"Name": "Meowth",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Fake Out",
+		"Notes": "This Pokémon switches places with its battle opponent.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "40"
+}, {
+	"Url": "http://serebii.net/duel/figures/41-zubat.shtml",
+	"Name": "Zubat",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Leech Life",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Air Cutter",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Supersonic",
+		"Notes": "The battle opponent becomes confused",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "41"
+}, {
+	"Url": "http://serebii.net/duel/figures/42-ho-oh.shtml",
+	"Name": "Ho-Oh",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Gust",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Fire Blast",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "100"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Rainbow Wing",
+		"Notes": "This Pokémon moves 2 steps away",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "42"
+}, {
+	"Url": "http://serebii.net/duel/figures/43-skarmory.shtml",
+	"Name": "Skarmory",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Swords Dance",
+		"Notes": "Spin again until an attack other than Swords Dance is spun. Damage Attacks deal x2 damage",
+		"Type": "White",
+		"Damage": "0"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Air Cutter",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Steel Wing",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "80"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Fly Away",
+		"Notes": "This Pokémon jumps over the battle opponent and lands on a surrounding point.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}],
+	"Id": "43"
+}, {
+	"Url": "http://serebii.net/duel/figures/44-audino.shtml",
+	"Name": "Audino",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Healing Wish",
+		"Notes": "This Pokémon switches with another of your Pokémon from the P.C.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Pound",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}],
+	"Id": "44"
+}, {
+	"Url": "http://serebii.net/duel/figures/45-machamp.shtml",
+	"Name": "Machamp",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Karate Chop",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Submission",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "80"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Karate Chop",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "45"
+}, {
+	"Url": "http://serebii.net/duel/figures/46-kyogre.shtml",
+	"Name": "Kyogre",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Break Energy",
+		"Notes": "Your opponent's Energy Plate-based effects are lost",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Tidal Wave",
+		"Notes": "All neighbour Pokémon are knocked 3 steps back and gain Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Hydro Pump",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "130"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "46"
+}, {
+	"Url": "http://serebii.net/duel/figures/47-psyduck.shtml",
+	"Name": "Psyduck",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Water Pulse",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Super Psy",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes confused.",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Disable",
+		"Notes": "The battle opponent now has Wait.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "47"
+}, {
+	"Url": "http://serebii.net/duel/figures/48-spinda.shtml",
+	"Name": "Spinda",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Feint Attack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Teeter Dance",
+		"Notes": "All neighbour Pokémon become confused",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}],
+	"Id": "48"
+}, {
+	"Url": "http://serebii.net/duel/figures/49-shroomish.shtml",
+	"Name": "Shroomish",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Stun Spore",
+		"Notes": "The battle opponent becomes paralyzed.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Poison Powder",
+		"Notes": "The battle opponent becomes poisoned",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "49"
+}, {
+	"Url": "http://serebii.net/duel/figures/50-charizard.shtml",
+	"Name": "Charizard",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Fire Spin",
+		"Notes": "Spin again until Fire Spin does not land - damage is multiplied by the number of Fire Spin spins",
+		"Type": "White",
+		"Damage": "50x"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Dragon Tail",
+		"Notes": "Benches your battle opponent (except when opponent has fainted). Your battle opponent must then Wait.",
+		"Type": "White",
+		"Damage": "60"
+	}],
+	"Id": "50"
+}, {
+	"Url": "http://serebii.net/duel/figures/51-wobbuffet.shtml",
+	"Name": "Wobbuffet",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "60",
+		"Name": "Counter",
+		"Notes": "If the battle opponent's Attack is below 20 damage, this Pokémon cannot be Knocked out.",
+		"Type": "White",
+		"Damage": "0"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait.",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "51"
+}, {
+	"Url": "http://serebii.net/duel/figures/52-pikachu.shtml",
+	"Name": "Pikachu",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Thunder Shock",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Thunderbolt",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "100"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Thunder Shock",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "52"
+}, {
+	"Url": "http://serebii.net/duel/figures/53-palkia.shtml",
+	"Name": "Palkia",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Dragon Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Spacial Rend",
+		"Notes": "If the battle is a tie, the battle opponent is excluded from the duel",
+		"Type": "White",
+		"Damage": "120"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Dragon Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "53"
+}, {
+	"Url": "http://serebii.net/duel/figures/54-cacnea.shtml",
+	"Name": "Cacnea",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Poison Sting",
+		"Notes": "The battle opponent becomes poisoned",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "64",
+		"Name": "Pin Missile",
+		"Notes": "Spin again until Pin Missile does not land - damage is multiplied by the number of Pin Missile spins",
+		"Type": "White",
+		"Damage": "10x"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "54"
+}, {
+	"Url": "http://serebii.net/duel/figures/55-froakie.shtml",
+	"Name": "Froakie",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Bubble",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}],
+	"Id": "55"
+}, {
+	"Url": "http://serebii.net/duel/figures/56-dratini.shtml",
+	"Name": "Dratini",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Dragon Rage",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "80"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Push Aside",
+		"Notes": "The battle opponent is moved to the bench and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "52",
+		"Name": "Tail Snap",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}],
+	"Id": "56"
+}, {
+	"Url": "http://serebii.net/duel/figures/57-eevee.shtml",
+	"Name": "Eevee",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Focus Energy",
+		"Notes": "Spin again until an attack other than Focus Energy is spun. Damage attacks deal +20 damage,",
+		"Type": "White",
+		"Damage": "0"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "57"
+}, {
+	"Url": "http://serebii.net/duel/figures/58-minun.shtml",
+	"Name": "Minun",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Spark",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "58"
+}, {
+	"Url": "http://serebii.net/duel/figures/59-pinsir.shtml",
+	"Name": "Pinsir",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Guillotine",
+		"Notes": "The battle opponent is knocked out",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Scissor Toss",
+		"Notes": "The battle opponent is knocked  back 1 step and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Vice Grip",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "59"
+}, {
+	"Url": "http://serebii.net/duel/figures/60-feraligatr.shtml",
+	"Name": "Feraligatr",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Hydro Pump",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "120"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Wash Away",
+		"Notes": "The battle opponent is knocked  back 2 steps and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "60"
+}, {
+	"Url": "http://serebii.net/duel/figures/61-bagon.shtml",
+	"Name": "Bagon",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Headbutt",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "61"
+}, {
+	"Url": "http://serebii.net/duel/figures/62-kabuto.shtml",
+	"Name": "Kabuto",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait.",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Mud Shot",
+		"Notes": "The battle opponent gains a MP-1 Marker",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait.",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Aqua Jet",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "30"
+	}],
+	"Id": "62"
+}, {
+	"Url": "http://serebii.net/duel/figures/63-geodude.shtml",
+	"Name": "Geodude",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Self-Destruct",
+		"Notes": "This Pokémon and all neighbour Pokémon faint",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Rollout",
+		"Notes": "Spin again until Rollout does not land - damage is multiplied by the number of Rollout spins",
+		"Type": "White",
+		"Damage": "30x"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Rock Throw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "63"
+}, {
+	"Url": "http://serebii.net/duel/figures/64-bulbasaur.shtml",
+	"Name": "Bulbasaur",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Poison Powder",
+		"Notes": "The battle opponent becomes poisoned",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Seed Bomb",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Sleep Powder",
+		"Notes": "The battle opponent falls asleep.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "64"
+}, {
+	"Url": "http://serebii.net/duel/figures/65-magnemite.shtml",
+	"Name": "Magnemite",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Thunder Wave",
+		"Notes": "The battle opponent becomes paralyzed.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Spark",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}],
+	"Id": "65"
+}, {
+	"Url": "http://serebii.net/duel/figures/66-fennekin.shtml",
+	"Name": "Fennekin",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Ember",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "66"
+}, {
+	"Url": "http://serebii.net/duel/figures/67-darkrai.shtml",
+	"Name": "Darkrai",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Dark Void",
+		"Notes": "The battle opponent and all opposing PokÃ©mon adjacent to it spin, and if they spin a White Attack, they fall Asleep",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Dark Pulse",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Dark Leap",
+		"Notes": "You can move this Pokémon 2 steps. If you do, this PokÃ©mon gains Wait.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "67"
+}, {
+	"Url": "http://serebii.net/duel/figures/68-absol.shtml",
+	"Name": "Absol",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Razor Wind",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Night Slash",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Perish Song",
+		"Notes": "All adjacent Pokémon gain a Curse marker.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "68"
+}, {
+	"Url": "http://serebii.net/duel/figures/69-drowzee.shtml",
+	"Name": "Drowzee",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Hypnosis",
+		"Notes": "The battle opponent falls asleep.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Confusion",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}],
+	"Id": "69"
+}, {
+	"Url": "http://serebii.net/duel/figures/70-salamence.shtml",
+	"Name": "Salamence",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Fly Away",
+		"Notes": "This Pokémon jumps over the battle opponent and lands on a surrounding point.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "64",
+		"Name": "Dragon Breath",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "70"
+}, {
+	"Url": "http://serebii.net/duel/figures/71-mareep.shtml",
+	"Name": "Mareep",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Thunder Wave",
+		"Notes": "The battle opponent becomes paralyzed.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Thunder Shock",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "71"
+}, {
+	"Url": "http://serebii.net/duel/figures/72-exeggcute.shtml",
+	"Name": "Exeggcute",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Barrage",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Barrage",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Barrage",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Barrage",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Barrage",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}],
+	"Id": "72"
+}, {
+	"Url": "http://serebii.net/duel/figures/73-scyther.shtml",
+	"Name": "Scyther",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "False Swipe",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Slash",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Swords Dance",
+		"Notes": "Spin again until an attack other than Swords Dance is spun. Damage Attacks deal x2 damage",
+		"Type": "White",
+		"Damage": "0"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "73"
+}, {
+	"Url": "http://serebii.net/duel/figures/74-goomy.shtml",
+	"Name": "Goomy",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Flail",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Spit Poison",
+		"Notes": "The battle opponent becomes poisoned",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Flail",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Slippery Swap",
+		"Notes": "This Pokémon switches place with its battle opponent",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "74"
+}, {
+	"Url": "http://serebii.net/duel/figures/75-smoochum.shtml",
+	"Name": "Smoochum",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Pound",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Sweet Kiss",
+		"Notes": "The battle opponent becomes confused",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Lick",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes paralyzed.",
+		"Type": "White",
+		"Damage": "20"
+	}],
+	"Id": "75"
+}, {
+	"Url": "http://serebii.net/duel/figures/76-spearow.shtml",
+	"Name": "Spearow",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Peck",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Fly Away",
+		"Notes": "This Pokémon jumps over the battle opponent and lands on a surrounding point.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}],
+	"Id": "76"
+}, {
+	"Url": "http://serebii.net/duel/figures/77-gabite.shtml",
+	"Name": "Gabite",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Slash",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Dragon Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Sand-Attack",
+		"Notes": "The battle opponent now has Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "77"
+}, {
+	"Url": "http://serebii.net/duel/figures/78-dedenne.shtml",
+	"Name": "Dedenne",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Nuzzle",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes paralyzed.",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Nuzzle",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes paralyzed.",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "78"
+}, {
+	"Url": "http://serebii.net/duel/figures/79-hawlucha.shtml",
+	"Name": "Hawlucha",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "60",
+		"Name": "Press",
+		"Notes": "If the opponent's Pokémon is knocked out, so is this Pokémon.",
+		"Type": "White",
+		"Damage": "60"
+	}],
+	"Id": "79"
+}, {
+	"Url": "http://serebii.net/duel/figures/80-groudon.shtml",
+	"Name": "Groudon",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Smash",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "110"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Slash",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "80"
+}, {
+	"Url": "http://serebii.net/duel/figures/81-nidoranm.shtml",
+	"Name": "Nidoran♂",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Poison Kick",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes poisoned",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Horn Attack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Poison Sting",
+		"Notes": "The battle opponent becomes poisoned",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "81"
+}, {
+	"Url": "http://serebii.net/duel/figures/82-fletchling.shtml",
+	"Name": "Fletchling",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Acrobatics",
+		"Notes": "If the battle opponent is knocked out, this Pokémon moves one step back and gains Wait.",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Peck",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "82"
+}, {
+	"Url": "http://serebii.net/duel/figures/83-espurr.shtml",
+	"Name": "Espurr",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Psychic Power",
+		"Notes": "The battle opponent is moved to the bench and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Psychic Power",
+		"Notes": "The battle opponent is moved to the bench and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}],
+	"Id": "83"
+}, {
+	"Url": "http://serebii.net/duel/figures/84-beedrill.shtml",
+	"Name": "Beedrill",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "44",
+		"Name": "Twineedle",
+		"Notes": "Spin again - if Twineedle is spun, it deals x2 damage. If this Pokémon is knocked out, the battle opponent becomes poisoned.",
+		"Type": "White",
+		"Damage": "40x"
+	}, {
+		"BaseWheelSize": "52",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "84"
+}, {
+	"Url": "http://serebii.net/duel/figures/85-ledyba.shtml",
+	"Name": "Ledyba",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Double-Edge",
+		"Notes": "This Pokémon and the battle opponent are knocked out",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Light Screen",
+		"Notes": "",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}],
+	"Id": "85"
+}, {
+	"Url": "http://serebii.net/duel/figures/86-rhyhorn.shtml",
+	"Name": "Rhyhorn",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Hyper Take Down",
+		"Notes": "If the battle opponent is knocked out, this Pokémon claims its previous spot and gains Wait.",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Stomp",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "86"
+}, {
+	"Url": "http://serebii.net/duel/figures/87-torchic.shtml",
+	"Name": "Torchic",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Ember",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Peck",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "87"
+}, {
+	"Url": "http://serebii.net/duel/figures/88-mankey.shtml",
+	"Name": "Mankey",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Thrash",
+		"Notes": "This Pokémon becomes confused,",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Tease",
+		"Notes": "Switch this Pokémon with the adjacent opponent Pokémon.",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "88"
+}, {
+	"Url": "http://serebii.net/duel/figures/89-zangoose.shtml",
+	"Name": "Zangoose",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Crush Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Swords Dance",
+		"Notes": "Spin again until an attack other than Swords Dance is spun. Damage Attacks deal x2 damage",
+		"Type": "White",
+		"Damage": "0"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "89"
+}, {
+	"Url": "http://serebii.net/duel/figures/90-weedle.shtml",
+	"Name": "Weedle",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "60",
+		"Name": "Poison Sting",
+		"Notes": "The battle opponent becomes poisoned",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "90"
+}, {
+	"Url": "http://serebii.net/duel/figures/91-drapion.shtml",
+	"Name": "Drapion",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Cross Poison",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Venom Whip",
+		"Notes": "The battle opponent becomes noxious.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Noxious Fang",
+		"Notes": "If this Pokémon is knocked out, the opponent Pokémon becomes noxiuous",
+		"Type": "White",
+		"Damage": "50"
+	}],
+	"Id": "91"
+}, {
+	"Url": "http://serebii.net/duel/figures/92-pachirisu.shtml",
+	"Name": "Pachirisu",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Spark",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Discharge",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Spark",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "92"
+}, {
+	"Url": "http://serebii.net/duel/figures/93-venusaur.shtml",
+	"Name": "Venusaur",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Vine Whip",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Solar Beam",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "130"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Sleep Powder",
+		"Notes": "The battle opponent falls asleep.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "93"
+}, {
+	"Url": "http://serebii.net/duel/figures/94-seviper.shtml",
+	"Name": "Seviper",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Wrap",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Toxic Fluid",
+		"Notes": "The battle opponent becomes noxious.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Wrap",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Poison Tail",
+		"Notes": "If this Pokémon is knocked out, the opponent Pokémon becomes poisoned",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "94"
+}, {
+	"Url": "http://serebii.net/duel/figures/95-piplup.shtml",
+	"Name": "Piplup",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Bubble Beam",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "64",
+		"Name": "Peck",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}],
+	"Id": "95"
+}, {
+	"Url": "http://serebii.net/duel/figures/96-mewtwo.shtml",
+	"Name": "Mewtwo",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "48",
+		"Name": "Psychic",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Psychic Shove",
+		"Notes": "The battle opponent is knocked as far back as possible in a straight line. Any Pokémon it collides with are also knocked back. All affected Pokémon gain Wait.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Annihilate",
+		"Notes": "This Pokémon moves to the bench and gains Wait.",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "96"
+}, {
+	"Url": "http://serebii.net/duel/figures/97-weezing.shtml",
+	"Name": "Weezing",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "56",
+		"Name": "Sludge Bomb",
+		"Notes": "If this Pokémon is knocked out, all Pokémon within 2 steps become Poisoned",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Poison Gas",
+		"Notes": "The battle opponent becomes poisoned",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "97"
+}, {
+	"Url": "http://serebii.net/duel/figures/98-goodra.shtml",
+	"Name": "Goodra",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Dragon Breath",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Muddy Water",
+		"Notes": "The battle opponent and one neighbour Pokémon directly behind it are knocked 1 step back and gain Wait",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "98"
+}, {
+	"Url": "http://serebii.net/duel/figures/99-girafarig.shtml",
+	"Name": "Girafarig",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Stomp",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Magic Coat",
+		"Notes": "If a battle opponent uses an Attack that attaches a marker or causes a special condition, that effect will be caused on the battle opponent instead.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Stomp",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Crunch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}],
+	"Id": "99"
+}, {
+	"Url": "http://serebii.net/duel/figures/100-butterfree.shtml",
+	"Name": "Butterfree",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Psybeam",
+		"Notes": "If this Pokémon is knocked out, the opponent Pokémon is Confused",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Startling Powder",
+		"Notes": "The battle opponent either becomes poisoned, paralyzed, or fals asleep.",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "100"
+}, {
+	"Url": "http://serebii.net/duel/figures/101-blastoise.shtml",
+	"Name": "Blastoise",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Hydro Pump",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "100"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Mirror Coat",
+		"Notes": "The battle opponent is knocked out if they spin purple.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "101"
+}, {
+	"Url": "http://serebii.net/duel/figures/102-lapras.shtml",
+	"Name": "Lapras",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Pound",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Surf",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Sing",
+		"Notes": "The battle opponent falls asleep.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "102"
+}, {
+	"Url": "http://serebii.net/duel/figures/103-staraptor.shtml",
+	"Name": "Staraptor",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Fly Away",
+		"Notes": "This Pokémon jumps over the battle opponent and lands on a surrounding point.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Brave Bird",
+		"Notes": "This Pokémon is kncoked out if the opponent's Attack deals more than half the damage that this Pokémon's Attack deals",
+		"Type": "White",
+		"Damage": "80"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Wing Attack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "103"
+}, {
+	"Url": "http://serebii.net/duel/figures/104-pikachu.shtml",
+	"Name": "Pikachu",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Quick Attack",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Thunder",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "100"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Thunder Wave",
+		"Notes": "The battle opponent becomes paralyzed.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Thunder Shock",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "104"
+}, {
+	"Url": "http://serebii.net/duel/figures/106-bronzong.shtml",
+	"Name": "Bronzong",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Confusion",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Extrasensory",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "80"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Confuse Ray",
+		"Notes": "The battle opponent becomes confused",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Iron Defense",
+		"Notes": "This Pokémon gains Wait.",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "106"
+}, {
+	"Url": "http://serebii.net/duel/figures/107-sneasel.shtml",
+	"Name": "Sneasel",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Quick Attack",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Fake Out",
+		"Notes": "This Pokémon switches places with its battle opponent.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Fury Swipes",
+		"Notes": "Spin again until Fury Swipes does not land - damage is multiplied by the number of Fury Swipes spins",
+		"Type": "White",
+		"Damage": "10x"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "107"
+}, {
+	"Url": "http://serebii.net/duel/figures/108-carvanha.shtml",
+	"Name": "Carvanha",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Scary Face",
+		"Notes": "The battle opponent is knocked 1 step back (the opponent chooses the point) and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "108"
+}, {
+	"Url": "http://serebii.net/duel/figures/109-turtwig.shtml",
+	"Name": "Turtwig",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Withdraw",
+		"Notes": "This Pokémon gains Wait.",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "109"
+}, {
+	"Url": "http://serebii.net/duel/figures/110-mew.shtml",
+	"Name": "Mew",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Psychic",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Hyper Sonic",
+		"Notes": "If the battle opponent's Attack is 100 damage or more, this Pokémon cannot be knocked out.",
+		"Type": "Gold",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Shuttle Flip",
+		"Notes": "This Pokémon can take 1-2 steps back",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "110"
+}, {
+	"Url": "http://serebii.net/duel/figures/111-taillow.shtml",
+	"Name": "Taillow",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "36",
+		"Name": "Wing Attack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Quick Attack",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Wing Attack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "111"
+}, {
+	"Url": "http://serebii.net/duel/figures/112-rayquaza.shtml",
+	"Name": "Rayquaza",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Fly",
+		"Notes": "This Pokémon jumps over the battle opponent and lands 1-2 steps away.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Extreme Speed",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "120"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Break Energy",
+		"Notes": "Your opponent's Energy Plate-based effects are lost",
+		"Type": "White",
+		"Damage": "60"
+	}],
+	"Id": "112"
+}, {
+	"Url": "http://serebii.net/duel/figures/114-tropius.shtml",
+	"Name": "Tropius",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Razor Leaf",
+		"Notes": "",
+		"Type": "White",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Solar Beam",
+		"Notes": "",
+		"Type": "White",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Razor Leaf",
+		"Notes": "",
+		"Type": "White",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Whirlwind",
+		"Notes": "The battle opponent is moved to the bench and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "114"
+}, {
+	"Url": "http://serebii.net/duel/figures/116-rattata.shtml",
+	"Name": "Rattata",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Quick Attack",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "68",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "116"
+}, {
+	"Url": "http://serebii.net/duel/figures/117-electabuzz.shtml",
+	"Name": "Electabuzz",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "60",
+		"Name": "Thunder Punch",
+		"Notes": "If this Pokémon is knocked out when it uses this attack, the battle opponent becomes paralyzed.",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Quick Attack",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "117"
+}, {
+	"Url": "http://serebii.net/duel/figures/118-tyranitar.shtml",
+	"Name": "Tyranitar",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Crunch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Earthquake",
+		"Notes": "All Pokémon on the field spin, except this one - if they spin a miss, they are knocked out",
+		"Type": "White",
+		"Damage": "110"
+	}],
+	"Id": "118"
+}, {
+	"Url": "http://serebii.net/duel/figures/119-zygarde.shtml",
+	"Name": "Zygarde",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Land's Wrath",
+		"Notes": "All other Pokémon on the field spin - those that spin purple are knocked out",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Dragon Breath",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "100"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Extreme Speed",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "119"
+}, {
+	"Url": "http://serebii.net/duel/figures/120-tentacruel.shtml",
+	"Name": "Tentacruel",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Tentacle Sting",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes poisoned or paralyzed",
+		"Type": "White",
+		"Damage": "80"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Mirror Coat",
+		"Notes": "The battle opponent is knocked out if they spin purple",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "120"
+}, {
+	"Url": "http://serebii.net/duel/figures/121-snorlax.shtml",
+	"Name": "Snorlax",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Big Yawn",
+		"Notes": "This Pokémon and the battle opponent fall asleep.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Body Slam",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "100"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Pound",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "121"
+}, {
+	"Url": "http://serebii.net/duel/figures/122-bellsprout.shtml",
+	"Name": "Bellsprout",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Sweet Scent",
+		"Notes": "One Pokémon within 3 steps' range is drawn 1-2 steps closer to this Pokémon and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Sleep Powder",
+		"Notes": "The battle opponent falls asleep.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Vine Whip",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}],
+	"Id": "122"
+}, {
+	"Url": "http://serebii.net/duel/figures/123-voltorb.shtml",
+	"Name": "Voltorb",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Explosion",
+		"Notes": "This Pokémon and all neighbour Pokémon faint",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Spark",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "123"
+}, {
+	"Url": "http://serebii.net/duel/figures/124-xatu.shtml",
+	"Name": "Xatu",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Teleport",
+		"Notes": "This Pokémon moves 2 steps away",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Psychic",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}],
+	"Id": "124"
+}, {
+	"Url": "http://serebii.net/duel/figures/125-chimchar.shtml",
+	"Name": "Chimchar",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Fury Swipes",
+		"Notes": "Spin again until Fury Swipes does not land - damage is multiplied by the number of Fury Swipes spins",
+		"Type": "White",
+		"Damage": "20x"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Taunt",
+		"Notes": "If this Pokémon or the opponent Pokémon spins purple, they must respin for that turn.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "125"
+}, {
+	"Url": "http://serebii.net/duel/figures/126-banette.shtml",
+	"Name": "Banette",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "44",
+		"Name": "Shadow Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Curse",
+		"Notes": "The battle opponent gains a Curse marker.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Night Shade",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "126"
+}, {
+	"Url": "http://serebii.net/duel/figures/127-slaking.shtml",
+	"Name": "Slaking",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "44",
+		"Name": "Hammer Arm",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "White",
+		"Damage": "80"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Rest",
+		"Notes": "This Pokémon falls asleep",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Fake Sleep",
+		"Notes": "Allows this Pokémon to respin once",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}],
+	"Id": "127"
+}, {
+	"Url": "http://serebii.net/duel/figures/128-haunter.shtml",
+	"Name": "Haunter",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Eerie Light",
+		"Notes": "The battle opponent becomes confused",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Night Shade",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}],
+	"Id": "128"
+}, {
+	"Url": "http://serebii.net/duel/figures/129-larvitar.shtml",
+	"Name": "Larvitar",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Thrash",
+		"Notes": "This Pokémon becomes confused,",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Crunch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "129"
+}, {
+	"Url": "http://serebii.net/duel/figures/130-keldeo.shtml",
+	"Name": "Keldeo",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Sacred Sword",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "51"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Hydro Kick",
+		"Notes": "Benches your battle Pokémon (excent when opponent has Fainted). Your battle opponent must then Wait.",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "130"
+}, {
+	"Url": "http://serebii.net/duel/figures/131-giratina.shtml",
+	"Name": "Giratina",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Slash",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Shadow Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "110"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Slash",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "131"
+}, {
+	"Url": "http://serebii.net/duel/figures/132-hariyama.shtml",
+	"Name": "Hariyama",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Slap Push",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Push Away",
+		"Notes": "This Pokémon knocks the battle opponent one step back and claims its previous spot",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Slap Push",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "132"
+}, {
+	"Url": "http://serebii.net/duel/figures/133-diglett.shtml",
+	"Name": "Diglett",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Faint Attack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Dig",
+		"Notes": "This Pokémon moves away from any Pokémon attached to it.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "133"
+}, {
+	"Url": "http://serebii.net/duel/figures/134-corphish.shtml",
+	"Name": "Corphish",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Vice Grip",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Taunt",
+		"Notes": "If this Pokémon or the opponent Pokémon spins purple, they must respin for that turn.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Vice Grip",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "134"
+}, {
+	"Url": "http://serebii.net/duel/figures/135-jigglypuff.shtml",
+	"Name": "Jigglypuff",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Sing",
+		"Notes": "All adjacent Pokémon are Asleep",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Hyper Voice",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Double Slap",
+		"Notes": "Spin one more time. If it lands on Double Slap, this attack does 20 more damage",
+		"Type": "White",
+		"Damage": "40+"
+	}],
+	"Id": "135"
+}, {
+	"Url": "http://serebii.net/duel/figures/136-mawile.shtml",
+	"Name": "Mawile",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Vice Grip",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Trickery",
+		"Notes": "Shifts this Pokémon's Attacks two segments clockwise",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Vice Grip",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}],
+	"Id": "136"
+}, {
+	"Url": "http://serebii.net/duel/figures/137-cyndaquil.shtml",
+	"Name": "Cyndaquil",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Ember",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Ember",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "137"
+}, {
+	"Url": "http://serebii.net/duel/figures/138-xerneas.shtml",
+	"Name": "Xerneas",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Moonblast",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Geomancy",
+		"Notes": "Spin again until an Attack other than Geomancy is spun. Damage attacks do +50 damage",
+		"Type": "White",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Moonblast",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Fairy Mist",
+		"Notes": "When this Pokémon is on the field, your Fairy-type Pokémon receive a +10 boost to attack damage",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "138"
+}, {
+	"Url": "http://serebii.net/duel/figures/139-yveltal.shtml",
+	"Name": "Yveltal",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Draining Wind",
+		"Notes": "One Pokémon within 3 steps' range is drawn 1-2 steps closer to this Pokémon and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Oblivion Wing",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "100"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dark Mist",
+		"Notes": "When this Pokémon is on the field, your Dark-type Pokémon receive a +10 boost to attack damage",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "139"
+}, {
+	"Url": "http://serebii.net/duel/figures/140-liepard.shtml",
+	"Name": "Liepard",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Feint Attack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Assist",
+		"Notes": "A random Pokémon on your bench other than Liepard spins. The attack that is spun takes the place of this attack",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Feint Attack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "140"
+}, {
+	"Url": "http://serebii.net/duel/figures/142-chesnaught.shtml",
+	"Name": "Chesnaught",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Spiky Shield",
+		"Notes": "The battle opponent is knocked 2 steps back and gains Wait 3",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Hammer Arm",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "White",
+		"Damage": "90"
+	}],
+	"Id": "142"
+}, {
+	"Url": "http://serebii.net/duel/figures/143-poliwhirl.shtml",
+	"Name": "Poliwhirl",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Water Gun",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Water Gun",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Hypnosis",
+		"Notes": "The battle opponent falls asleep",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "143"
+}, {
+	"Url": "http://serebii.net/duel/figures/144-lairon.shtml",
+	"Name": "Lairon",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Take Down ",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Harden",
+		"Notes": "If the damage inflicted onto this Pokémon is 60 or less, this Pokémon does not faint.",
+		"Type": "White",
+		"Damage": "0"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait.",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "144"
+}, {
+	"Url": "http://serebii.net/duel/figures/145-skorupi.shtml",
+	"Name": "Skorupi",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Poison Sting",
+		"Notes": "The battle opponent becomes poisoned.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "145"
+}, {
+	"Url": "http://serebii.net/duel/figures/146-onix.shtml",
+	"Name": "Onix",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Rock Slide",
+		"Notes": "All neigbour Pokémon spin - those that miss are knocked out",
+		"Type": "White",
+		"Damage": "80"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Dig",
+		"Notes": "This Pokémon moves away from any Pokémon attached to it.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "146"
+}, {
+	"Url": "http://serebii.net/duel/figures/147-gible.shtml",
+	"Name": "Gible",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "147"
+}, {
+	"Url": "http://serebii.net/duel/figures/149-quilladin.shtml",
+	"Name": "Quilladin",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Needle Arm",
+		"Notes": "The battle opponent gains Wait",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Mud Shot",
+		"Notes": "Attach MP-1 marker to the battle opponent.",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Needle Arm",
+		"Notes": "The battle opponent gains Wait",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "149"
+}, {
+	"Url": "http://serebii.net/duel/figures/150-graveler.shtml",
+	"Name": "Graveler",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Rollout",
+		"Notes": "Spin again until Rollout does not land - damage is multiplied by the number of Rollout spins",
+		"Type": "White",
+		"Damage": "40x"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "10",
+		"Name": "Landslide",
+		"Notes": "The battle opponent is knocked 1 step back and gains Wait",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "150"
+}, {
+	"Url": "http://serebii.net/duel/figures/152-koffing.shtml",
+	"Name": "Koffing",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Smog",
+		"Notes": "The battle opponent is poisoned.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Sludge Bomb",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes poisoned",
+		"Type": "White",
+		"Damage": "30"
+	}],
+	"Id": "152"
+}, {
+	"Url": "http://serebii.net/duel/figures/153-gastly.shtml",
+	"Name": "Gastly",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Destiny Bond",
+		"Notes": "If this Pokémon is knocked out, so is the battle opponent",
+		"Type": "White",
+		"Damage": "0"
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Astonish",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "153"
+}, {
+	"Url": "http://serebii.net/duel/figures/154-hoothoot.shtml",
+	"Name": "Hoothoot",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Peck",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Hypnosis",
+		"Notes": "The battle opponent falls asleep",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Peck",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "154"
+}, {
+	"Url": "http://serebii.net/duel/figures/156-shelgon.shtml",
+	"Name": "Shelgon",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Flamethrower",
+		"Notes": "The battle opponent is now burned.",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "64",
+		"Name": "Withdraw",
+		"Notes": "If the damage inflicted onto this Pokémon is 100 or less, this Pokémon does not faint.",
+		"Type": "White",
+		"Damage": "10"
+	}],
+	"Id": "156"
+}, {
+	"Url": "http://serebii.net/duel/figures/158-tentacool.shtml",
+	"Name": "Tentacool",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "52",
+		"Name": "Tentacle Barrage",
+		"Notes": "This move's damage is boosted by the number of Pokémon on the field that know moves that can cause Poison or Toxic status effect, plus 10.\nIf this Pokémon faints, the battle opponent will become Poisoned",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Poison Sting",
+		"Notes": "The battle opponent becomes poisoned.",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "158"
+}, {
+	"Url": "http://serebii.net/duel/figures/159-pichu.shtml",
+	"Name": "Pichu",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "159"
+}, {
+	"Url": "http://serebii.net/duel/figures/160-monferno.shtml",
+	"Name": "Monferno",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Aerial Attack",
+		"Notes": "Opponent Pokémon is pushed back one space. This Pokémon gains Wait",
+		"Type": "White",
+		"Damage": "60"
+	}],
+	"Id": "160"
+}, {
+	"Url": "http://serebii.net/duel/figures/161-grotle.shtml",
+	"Name": "Grotle",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "161"
+}, {
+	"Url": "http://serebii.net/duel/figures/162-wartortle.shtml",
+	"Name": "Wartortle",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Water Gun",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Rapid Spin",
+		"Notes": "Spin again until Rapid Spin does not land - damage is multiplied by the number of Rapid Spin spins",
+		"Type": "White",
+		"Damage": "20x"
+	}],
+	"Id": "162"
+}, {
+	"Url": "http://serebii.net/duel/figures/163-gyarados.shtml",
+	"Name": "Gyarados",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "52",
+		"Name": "Hyper Beam",
+		"Notes": "If the battle opponent is knocked out, the next turn will always be the other player's",
+		"Type": "White",
+		"Damage": "100"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Storm",
+		"Notes": "All neighbour Pokémon are moved to the bench and gain Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "163"
+}, {
+	"Url": "http://serebii.net/duel/figures/164-frogadier.shtml",
+	"Name": "Frogadier",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Water Gun",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Toxic Spikes",
+		"Notes": "The battle opponent becomes poisoned. This Pokémon retreats one step",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "164"
+}, {
+	"Url": "http://serebii.net/duel/figures/166-prinplup.shtml",
+	"Name": "Prinplup",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Hydro Pump",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Metal Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "166"
+}, {
+	"Url": "http://serebii.net/duel/figures/167-swellow.shtml",
+	"Name": "Swellow",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Quick Attack",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Fly",
+		"Notes": "This Pokémon jumps over the battle opponent and lands 1-2 steps away",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Aerial Ace",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}],
+	"Id": "167"
+}, {
+	"Url": "http://serebii.net/duel/figures/170-greninja.shtml",
+	"Name": "Greninja",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Hydro Pump",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Water Shuriken",
+		"Notes": "Spin again until Water Shuriken attack does not land - damage is multiplied by the number of Water Shuriken Attack spins. An opponent next to the target spins, and if it spins a Purple Attack, then it is knocked out",
+		"Type": "Gold",
+		"Damage": "20x"
+	}],
+	"Id": "170"
+}, {
+	"Url": "http://serebii.net/duel/figures/171-electivire.shtml",
+	"Name": "Electivire",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Electric Blast",
+		"Notes": "All Pokémon adjacent to the opponent Pokémon are Paralysed",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Thunder Punch",
+		"Notes": "If this Pokémon is knocked out when it uses this attack, the battle opponent becomes paralyzed.",
+		"Type": "White",
+		"Damage": "60"
+	}],
+	"Id": "171"
+}, {
+	"Url": "http://serebii.net/duel/figures/172-rhydon.shtml",
+	"Name": "Rhydon",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Horn Drill",
+		"Notes": "The battle opponent is Knocked Out",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Stomp",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}],
+	"Id": "172"
+}, {
+	"Url": "http://serebii.net/duel/figures/173-flygon.shtml",
+	"Name": "Flygon",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Dragon Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Draco Meteor",
+		"Notes": "One other Pokémon on the field spins - if they spin a miss or a white attack of 70 damage or more, they are knocked out",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Dragon Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Fly Away",
+		"Notes": "This Pokémon jumps over the battle opponent and lands on a surrounding point",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}],
+	"Id": "173"
+}, {
+	"Url": "http://serebii.net/duel/figures/174-purrloin.shtml",
+	"Name": "Purrloin",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Fury Swipes",
+		"Notes": "Spin again until Fury Swipes does not land - damage is multiplied by the number of Fury Swipes spins",
+		"Type": "White",
+		"Damage": "30x"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Taunt",
+		"Notes": "If this Pokémon or the opponent Pokémon spins purple, they must respin for that turn.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "174"
+}, {
+	"Url": "http://serebii.net/duel/figures/176-sylveon.shtml",
+	"Name": "Sylveon",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Round",
+		"Notes": "Damage is multiplied by the number of your own Pokémon on the field that also have Round",
+		"Type": "White",
+		"Damage": "30x"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Moonblast",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "176"
+}, {
+	"Url": "http://serebii.net/duel/figures/177-pupitar.shtml",
+	"Name": "Pupitar",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "64",
+		"Name": "Thrash",
+		"Notes": "This Pokémon becomes confused",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "177"
+}, {
+	"Url": "http://serebii.net/duel/figures/179-leafeon.shtml",
+	"Name": "Leafeon",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Leaf Blade",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Grass Whistle",
+		"Notes": "The battle opponent falls asleep",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "179"
+}, {
+	"Url": "http://serebii.net/duel/figures/180-croconaw.shtml",
+	"Name": "Croconaw",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Scary Face",
+		"Notes": "The opponent is moved 1 step behind this Pokémon The battle opponent gains Wait",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}],
+	"Id": "180"
+}, {
+	"Url": "http://serebii.net/duel/figures/183-bronzor.shtml",
+	"Name": "Bronzor",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Extrasensory",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Confuse Ray",
+		"Notes": "The battle opponent becomes confused.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Heavy Slam",
+		"Notes": "If the battle opponent has MP3 or more, this Pokémon will not get damanged and will knock out the battle opponent",
+		"Type": "White",
+		"Damage": "20"
+	}],
+	"Id": "183"
+}, {
+	"Url": "http://serebii.net/duel/figures/185-golbat.shtml",
+	"Name": "Golbat",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Leech Life",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Confuse Ray",
+		"Notes": "",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "185"
+}, {
+	"Url": "http://serebii.net/duel/figures/186-rhyperior.shtml",
+	"Name": "Rhyperior",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Rock Wrecker",
+		"Notes": "Knock out 1 of your opponent's Flying-type Pokémon within 2 steps. (When using the Long Barrel plate: \"Knock out 1 of your opponent's Fire, Ice, Flying or Bug-type Pokémon that are 2 or 3 steps away.)",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Bulldozer",
+		"Notes": "This Pokémon knocks the battle opponent one step back and claims its previous spot",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Rock Blast",
+		"Notes": "Spin again until Rock Blast does not land - damage is multiplied by the number of Rock Blast spins",
+		"Type": "White",
+		"Damage": "100x"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "186"
+}, {
+	"Url": "http://serebii.net/duel/figures/187-vaporeon.shtml",
+	"Name": "Vaporeon",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Water Slide",
+		"Notes": "The battle opponent is knocked 1 step back and gains Wait",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Water Pulse",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "187"
+}, {
+	"Url": "http://serebii.net/duel/figures/188-jolteon.shtml",
+	"Name": "Jolteon",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Thunder Jolt",
+		"Notes": "If this Pokémon is knocked out when using this move, the battle opponent becomes paralyzed.",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Quick Attack",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "188"
+}, {
+	"Url": "http://serebii.net/duel/figures/190-garchomp.shtml",
+	"Name": "Garchomp",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dragon Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Dragon Rush",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Double Flight",
+		"Notes": "This Pokémon jumps over the battle opponent and lands on a surrounding point. After moving, it may Attack again.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "190"
+}, {
+	"Url": "http://serebii.net/duel/figures/191-empoleon.shtml",
+	"Name": "Empoleon",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Ice Beam",
+		"Notes": "If this Pokémon is knocked out when using this move, the battle opponent becomes frozen",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Aqua Jet",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Hydro Pump",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "90"
+	}],
+	"Id": "191"
+}, {
+	"Url": "http://serebii.net/duel/figures/198-magikarp.shtml",
+	"Name": "Magikarp",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "48",
+		"Name": "Splash",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "0"
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Flail",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "198"
+}, {
+	"Url": "http://serebii.net/duel/figures/199-ivysaur.shtml",
+	"Name": "Ivysaur",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Vine Whip",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Razor Leaf",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Sleep Powder",
+		"Notes": "The battle opponent falls asleep.",
+		"Type": "Purple",
+		"Damage": "&star'"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "199"
+}, {
+	"Url": "http://serebii.net/duel/figures/201-natu.shtml",
+	"Name": "Natu",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Future Sight",
+		"Notes": "This Pokémon and optionally the opponent Pokémon may respin one time.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "201"
+}, {
+	"Url": "http://serebii.net/duel/figures/202-raichu.shtml",
+	"Name": "Raichu",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "52",
+		"Name": "Thunder Jolt",
+		"Notes": "If this Pokémon is knocked out when using this move, the battle opponent becomes paralyzed.",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "202"
+}, {
+	"Url": "http://serebii.net/duel/figures/203-lucario.shtml",
+	"Name": "Lucario",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Aura Sphere",
+		"Notes": "Either the battle opponent or a Pokémon behind it in a straight line from this Pokémon is knocked out.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Metal Claw",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}],
+	"Id": "203"
+}, {
+	"Url": "http://serebii.net/duel/figures/205-kakuna.shtml",
+	"Name": "Kakuna",
+	"Movement": "0",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Poison Sting",
+		"Notes": "The opponent Pokémon is now Poisoned",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "205"
+}, {
+	"Url": "http://serebii.net/duel/figures/206-wigglytuff.shtml",
+	"Name": "Wigglytuff",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Round",
+		"Notes": "Damage is multiplied by the number of your own Pokémon on the field that also have Round",
+		"Type": "White",
+		"Damage": "20x"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Sing",
+		"Notes": "The battle opponent falls asleep",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Pound",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}],
+	"Id": "206"
+}, {
+	"Url": "http://serebii.net/duel/figures/207-aggron.shtml",
+	"Name": "Aggron",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Heavy Slam",
+		"Notes": "If the battle opponent has MP3 or more, this Pokémon will not get damanged and will knock out the battle opponent",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait.",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Roar",
+		"Notes": "The battle opponent is knocked 1 step back (the opponent chooses the point) and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Iron Tail",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "120"
+	}],
+	"Id": "207"
+}, {
+	"Url": "http://serebii.net/duel/figures/208-infernape.shtml",
+	"Name": "Infernape",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Detect",
+		"Notes": "If this Pokémon is successful, it gains MP +1 next turn",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Drive Kick",
+		"Notes": "If the battle opponent is knocked out, this Pokémon claims its previous spot and gains Wait.",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Mach Punch",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "40"
+	}],
+	"Id": "208"
+}, {
+	"Url": "http://serebii.net/duel/figures/209-totodile.shtml",
+	"Name": "Totodile",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "48",
+		"Name": "Water Gun",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}],
+	"Id": "209"
+}, {
+	"Url": "http://serebii.net/duel/figures/211-gardevoir.shtml",
+	"Name": "Gardevoir",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Wave Hole",
+		"Notes": "Switches the battle opponent for a Pokémon on the field, bench or P.C. Then, those Pokémon must wait 3",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Moonblast",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Super Psy",
+		"Notes": "If this Pokémon is knocked out , the battle opponent becomes confused.",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "211"
+}, {
+	"Url": "http://serebii.net/duel/figures/212-vibrava.shtml",
+	"Name": "Vibrava",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Supersonic",
+		"Notes": "The battle opponent becomes confused",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Dragon Breath",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Screech",
+		"Notes": "All neighbor Pokémon now have Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Mud Shot",
+		"Notes": "Attach MP-1 marker to the battle opponent.",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "212"
+}, {
+	"Url": "http://serebii.net/duel/figures/213-nuzleaf.shtml",
+	"Name": "Nuzleaf",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "56",
+		"Name": "Faint Attack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "213"
+}, {
+	"Url": "http://serebii.net/duel/figures/214-shiftry.shtml",
+	"Name": "Shiftry",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Pound",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Fan Away",
+		"Notes": "The battle opponent is knocked 1 step back and gains Wait",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Razor Wind",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "214"
+}, {
+	"Url": "http://serebii.net/duel/figures/215-kirlia.shtml",
+	"Name": "Kirlia",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "215"
+}, {
+	"Url": "http://serebii.net/duel/figures/216-noctowl.shtml",
+	"Name": "Noctowl",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Mega Hypnosis",
+		"Notes": "The battle opponent falls Asleep",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "64",
+		"Name": "Clutch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}],
+	"Id": "216"
+}, {
+	"Url": "http://serebii.net/duel/figures/217-ralts.shtml",
+	"Name": "Ralts",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "40",
+		"Name": "Confusion",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Imprison",
+		"Notes": "The battle opponent's Attack is disabled, and they gain an Imprisoned Marker.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "217"
+}, {
+	"Url": "http://serebii.net/duel/figures/218-deoxys.shtml",
+	"Name": "Deoxys",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Extreme Speed",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "52",
+		"Name": "Psychic",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "218"
+}, {
+	"Url": "http://serebii.net/duel/figures/219-deoxys.shtml",
+	"Name": "Deoxys",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Psychic",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Psycho Boost",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Psychic",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Evade",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Teleport",
+		"Notes": "This Pokémon moves 2 steps away",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "219"
+}, {
+	"Url": "http://serebii.net/duel/figures/220-exeggutor.shtml",
+	"Name": "Exeggutor",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Barrage",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Barrage",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Stun Spore",
+		"Notes": "The battle opponent becomes paralyzed.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "220"
+}, {
+	"Url": "http://serebii.net/duel/figures/221-slakoth.shtml",
+	"Name": "Slakoth",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Big Yawn",
+		"Notes": "This Pokémon and the battle opponent fall asleep.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "221"
+}, {
+	"Url": "http://serebii.net/duel/figures/222-chikorita.shtml",
+	"Name": "Chikorita",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Sweet Scent",
+		"Notes": "One Pokémon within 3 steps' range is drawn 1-2 steps closer to this Pokémon and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Razor Leaf",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}],
+	"Id": "222"
+}, {
+	"Url": "http://serebii.net/duel/figures/223-glaceon.shtml",
+	"Name": "Glaceon",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Diamond Dust",
+		"Notes": "The battle opponent becomes frozen",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "223"
+}, {
+	"Url": "http://serebii.net/duel/figures/224-deoxys.shtml",
+	"Name": "Deoxys",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Psycho Boost",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "130"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Dimensional Slip",
+		"Notes": "This Pokémon moves to the bench and gains Wait 3",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}],
+	"Id": "224"
+}, {
+	"Url": "http://serebii.net/duel/figures/225-weavile.shtml",
+	"Name": "Weavile",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Taunt",
+		"Notes": "If this Pokémon or the opponent Pokémon spins purple, they must respin for that turn.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Ice Punch",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes frozen.",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Ice Shard",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "20"
+	}],
+	"Id": "225"
+}, {
+	"Url": "http://serebii.net/duel/figures/226-manaphy.shtml",
+	"Name": "Manaphy",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Manaphy's Song",
+		"Notes": "One other Water-type Pokémon on the field (that is not asleep or frozen) may be moved within their MP range. That Pokémon gains wait",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "52",
+		"Name": "Bubble",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}],
+	"Id": "226"
+}, {
+	"Url": "http://serebii.net/duel/figures/227-heatran.shtml",
+	"Name": "Heatran",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Crunch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Iron Head",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "110"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Crunch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Magma Slide",
+		"Notes": "The battle opponent is knocked 2 steps back and becomes burned. The battle opponent now has Wait.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "227"
+}, {
+	"Url": "http://serebii.net/duel/figures/229-deoxys.shtml",
+	"Name": "Deoxys",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "60",
+		"Name": "Psycho Barrier",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Counter",
+		"Notes": "If the battle opponent's Attack is below 20 damage, this Pokémon cannot be Knocked out.",
+		"Type": "White",
+		"Damage": "0"
+	}],
+	"Id": "229"
+}, {
+	"Url": "http://serebii.net/duel/figures/230-torterra.shtml",
+	"Name": "Torterra",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Earthquake",
+		"Notes": "All Pokémon on the field will spin their wheel. If is Misses, the Pokémon is sent to the PC",
+		"Type": "White",
+		"Damage": "120"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Withdraw",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "230"
+}, {
+	"Url": "http://serebii.net/duel/figures/232-zekrom.shtml",
+	"Name": "Zekrom",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Fly",
+		"Notes": "This Pokémon jumps over the battle opponent and lands 1-2 steps away.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Bolt Strike",
+		"Notes": "The battle opponent becomes paralyzed.",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Fly",
+		"Notes": "This Pokémon jumps over the battle opponent and lands 1-2 steps away.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Fusion Bolt",
+		"Notes": "If you have Reshiram on the field, and this Pokémon is not affected by a special condition, exclude the Pokémon knocked out by this Attack from the duel.",
+		"Type": "White",
+		"Damage": "70"
+	}],
+	"Id": "232"
+}, {
+	"Url": "http://serebii.net/duel/figures/233-raikou.shtml",
+	"Name": "Raikou",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Thunderous Blow",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "80"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "233"
+}, {
+	"Url": "http://serebii.net/duel/figures/234-latios.shtml",
+	"Name": "Latios",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Luster Purge",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "120"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Dragon Breath",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Psychic",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}],
+	"Id": "234"
+}, {
+	"Url": "http://serebii.net/duel/figures/235-genesect.shtml",
+	"Name": "Genesect",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Techno Blast",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Techno Charge",
+		"Notes": "This Pokémon must Wait. In exchange, it receives a damage boost of +50 until the end of its next battle",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}],
+	"Id": "235"
+}, {
+	"Url": "http://serebii.net/duel/figures/237-latias.shtml",
+	"Name": "Latias",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Fly Away",
+		"Notes": "This Pokémon jumps over the battle opponent and lands on a surrounding point.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Mist Ball",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "110"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Dragon Breath",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Fly Over",
+		"Notes": "This Pokémon jumps over the battle opponent and lands on a surrounding point.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Psychic",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}],
+	"Id": "237"
+}, {
+	"Url": "http://serebii.net/duel/figures/238-vigoroth.shtml",
+	"Name": "Vigoroth",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "238"
+}, {
+	"Url": "http://serebii.net/duel/figures/239-sliggoo.shtml",
+	"Name": "Sliggoo",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Flail",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Dragonbreath",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Flail",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Slippery Swap",
+		"Notes": "This Pokémon switches places with its battle opponent.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "239"
+}, {
+	"Url": "http://serebii.net/duel/figures/240-crobat.shtml",
+	"Name": "Crobat",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Poison Fang",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes poisoned.",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Noxious Fang",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes noxious",
+		"Type": "White",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Poison Fang",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes poisoned.",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Shuttle Flip",
+		"Notes": "This Pokémon can take 1-2 steps back",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "240"
+}, {
+	"Url": "http://serebii.net/duel/figures/245-quilava.shtml",
+	"Name": "Quilava",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "52",
+		"Name": "Flamethrower",
+		"Notes": "If this Pokémon is knocked out when using this move, the battle opponent becomes burned.",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Ember",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "245"
+}, {
+	"Url": "http://serebii.net/duel/figures/246-braixen.shtml",
+	"Name": "Braixen",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Light Screen",
+		"Notes": "",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Flamethrower",
+		"Notes": "If this Pokémon is knocked out when using this move, the battle opponent becomes burned.",
+		"Type": "White",
+		"Damage": "50"
+	}],
+	"Id": "246"
+}, {
+	"Url": "http://serebii.net/duel/figures/248-flareon.shtml",
+	"Name": "Flareon",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Flamethrower",
+		"Notes": "If this Pokémon is knocked out when using this move, the battle opponent becomes burned.",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Focus Energy",
+		"Notes": "Spin again until an attack other than Focus Energy is spun. Damage attacks deal +20 damage,",
+		"Type": "White",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "248"
+}, {
+	"Url": "http://serebii.net/duel/figures/249-arbok.shtml",
+	"Name": "Arbok",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Glare",
+		"Notes": "The battle opponent becomes paralyzed.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Poison Fang",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes poisoned.",
+		"Type": "White",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "249"
+}, {
+	"Url": "http://serebii.net/duel/figures/250-magmar.shtml",
+	"Name": "Magmar",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "52",
+		"Name": "Fire Punch",
+		"Notes": "If this Pokémon is knocked out when using this move, the battle opponent becomes burned.",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Confuse Ray",
+		"Notes": "The battle opponent becomes confused",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}],
+	"Id": "250"
+}, {
+	"Url": "http://serebii.net/duel/figures/251-shuppet.shtml",
+	"Name": "Shuppet",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Will-o-Wisp",
+		"Notes": "The battle opponent becomes burned",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Night Shade",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "10"
+	}],
+	"Id": "251"
+}, {
+	"Url": "http://serebii.net/duel/figures/253-delphox.shtml",
+	"Name": "Delphox",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Flamethrower",
+		"Notes": "If this Pokémon is knocked out when using this move, the battle opponent becomes burned.",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Flame Kinesis",
+		"Notes": "The battle opponent is moved 3 steps away from this Pokémon",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Fire Blast",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}],
+	"Id": "253"
+}, {
+	"Url": "http://serebii.net/duel/figures/255-charmeleon.shtml",
+	"Name": "Charmeleon",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Flame",
+		"Notes": "The battle opponent becomes burned",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "56",
+		"Name": "Iron Tail",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}],
+	"Id": "255"
+}, {
+	"Url": "http://serebii.net/duel/figures/256-umbreon.shtml",
+	"Name": "Umbreon",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Toxic",
+		"Notes": "The battle opponent becomes noxious.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Faint Attack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "256"
+}, {
+	"Url": "http://serebii.net/duel/figures/258-typhlosion.shtml",
+	"Name": "Typhlosion",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Ember",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Hot Air",
+		"Notes": "All neigbour Pokémon become burned.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Ember",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Fire Blast",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "90"
+	}],
+	"Id": "258"
+}, {
+	"Url": "http://serebii.net/duel/figures/260-corsola.shtml",
+	"Name": "Corsola",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Mirror Coat",
+		"Notes": "The battle opponent is knocked out if they spin purple",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Rockwall",
+		"Notes": "If the battle opponent's Attack is 120 damage or below, this Pokémon cannot be knocked out",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "260"
+}, {
+	"Url": "http://serebii.net/duel/figures/261-reshiram.shtml",
+	"Name": "Reshiram",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Fly",
+		"Notes": "This Pokémon jumps over the battle opponent and lands 1-2 steps away.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Blue Flare",
+		"Notes": "The battle opponent becomes burned",
+		"Type": "White",
+		"Damage": "100"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Fly",
+		"Notes": "This Pokémon jumps over the battle opponent and lands 1-2 steps away.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Fusion Flare",
+		"Notes": "If you have Zekrom on the field, and this Pokémon is not affected by a special condition, exclude the Pokémon knocked out by this Attack from the duel.",
+		"Type": "White",
+		"Damage": "70"
+	}],
+	"Id": "261"
+}, {
+	"Url": "http://serebii.net/duel/figures/262-magmortar.shtml",
+	"Name": "Magmortar",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Flame Gun",
+		"Notes": "The battle opponent and one Pokémon directly behind it are knocked out",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "52",
+		"Name": "Fire Punch",
+		"Notes": "If this Pokémon is knocked out when using this move, the battle opponent becomes burned.",
+		"Type": "White",
+		"Damage": "60"
+	}],
+	"Id": "262"
+}, {
+	"Url": "http://serebii.net/duel/figures/264-hydreigon.shtml",
+	"Name": "Hydreigon",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Draco Meteor",
+		"Notes": "One other Pokémon on the field spins - if they spin a miss or a white attack of 70 damage or more, they are knocked out",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Flamethrower",
+		"Notes": "If this Pokémon is knocked out when using this move, the battle opponent becomes burned.",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Dark Pulse",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "264"
+}, {
+	"Url": "http://serebii.net/duel/figures/265-trapinch.shtml",
+	"Name": "Trapinch",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Dig",
+		"Notes": "This Pokémon moves away from any Pokémon attached to it.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "265"
+}, {
+	"Url": "http://serebii.net/duel/figures/266-zweilous.shtml",
+	"Name": "Zweilous",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "36",
+		"Name": "Roar",
+		"Notes": "The battle opponent is knocked 1 step back (the opponent chooses the point) and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Bite",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "266"
+}, {
+	"Url": "http://serebii.net/duel/figures/268-riolu.shtml",
+	"Name": "Riolu",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Shockwave",
+		"Notes": "The battle opponent and all Pokémon directly behind it are given Wait.",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Shake",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}],
+	"Id": "268"
+}, {
+	"Url": "http://serebii.net/duel/figures/269-zapdos.shtml",
+	"Name": "Zapdos",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Steel Wing",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Thunder Crash",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "100"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Roost",
+		"Notes": "This Pokémon recovers from all status effects. In exchange, it must then Wait 3",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Thunder Charge",
+		"Notes": "Attach a Charge Marker to this Pokémon. (Charge Markers can be removed during your turn when a battle starts.) When you remove the Charge Marker, the opposing Pokémon will become Paralyzed, along with any Pokémon in the same row (excluding this one), and the turn will end.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "269"
+}, {
+	"Url": "http://serebii.net/duel/figures/271-moltres.shtml",
+	"Name": "Moltres",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Steel Wing",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Crushing Flames",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "110"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "1",
+		"Name": "Roost",
+		"Notes": "This Pokémon recovers from all status effects. In exchange, it must then Wait 3",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Flame Charge",
+		"Notes": "Attach a Charge Marker to this Pokémon. (Charge Markers can be removed during your turn when a battle starts.) When you remove the Charge Marker, the opposing Pokémon will become Burned, along with any Pokémon in the same row (excluding this one), and the turn will end.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "271"
+}, {
+	"Url": "http://serebii.net/duel/figures/273-floatzel.shtml",
+	"Name": "Floatzel",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Aqua Jet",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Surf",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}],
+	"Id": "273"
+}, {
+	"Url": "http://serebii.net/duel/figures/274-articuno.shtml",
+	"Name": "Articuno",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Steel Wing",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Cold Crush",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "1",
+		"Name": "Roost",
+		"Notes": "This Pokémon recovers from all status effects. In exchange, it must then Wait 3",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Ice Charge",
+		"Notes": "Attach a Charge Marker to this Pokémon. (Charge Markers can be removed during your turn when a battle starts.) When you remove the Charge Marker, the opposing Pokémon will become Frozen, along with any Pokémon in the same row (excluding this one), and the turn will end.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "274"
+}, {
+	"Url": "http://serebii.net/duel/figures/280-dragonair.shtml",
+	"Name": "Dragonair",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Magnetic Storm",
+		"Notes": "This Pokémon and all neigbour Pokémon become Paralyzed",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "48",
+		"Name": "Dragon Tail",
+		"Notes": "Benches your battle opponent (except when opponent has fainted). Your battle opponent must then Wait.",
+		"Type": "White",
+		"Damage": "60"
+	}],
+	"Id": "280"
+}, {
+	"Url": "http://serebii.net/duel/figures/281-dragonite.shtml",
+	"Name": "Dragonite",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Extreme Speed",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Sightseeing",
+		"Notes": "This Pokémon jumps over the battle opponent and lands 1-2 steps away, then gains Wait",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Dragon Tail",
+		"Notes": "Benches your battle opponent (except when opponent has fainted). Your battle opponent must then Wait.",
+		"Type": "White",
+		"Damage": "90"
+	}],
+	"Id": "281"
+}, {
+	"Url": "http://serebii.net/duel/figures/282-grovyle.shtml",
+	"Name": "Grovyle",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Quick Attack",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Leaf Blade",
+		"Notes": "Spin again - if Leaf Blade is spun, it deals +50 damage",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "282"
+}, {
+	"Url": "http://serebii.net/duel/figures/283-sceptile.shtml",
+	"Name": "Sceptile",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "20",
+		"Name": "Quick Attack",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Leaf Blade",
+		"Notes": "Spin again - if Leaf Blade is spun, it deals +50 damage",
+		"Type": "White",
+		"Damage": "90"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Stealth Hit",
+		"Notes": "This Pokémon can jump over its battle opponent and land 1 step away.",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "283"
+}, {
+	"Url": "http://serebii.net/duel/figures/289-nincada.shtml",
+	"Name": "Nincada",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Scratch",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Dig",
+		"Notes": "This Pokémon moves away from any Pokémon attached to it.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "289"
+}, {
+	"Url": "http://serebii.net/duel/figures/290-ninjask.shtml",
+	"Name": "Ninjask",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Double-Edge",
+		"Notes": "This Pokémon and the battle opponent are knocked out",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Night Slash",
+		"Notes": "If this Pokémon is not Knocked Out, you may switch this Pokémon with 1 of your Benched Pokémon",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "290"
+}, {
+	"Url": "http://serebii.net/duel/figures/297-cottonee.shtml",
+	"Name": "Cottonee",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Tackle",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Cotton Guard",
+		"Notes": "In this Pokémon's next battle, it cannot be knocked out",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "297"
+}, {
+	"Url": "http://serebii.net/duel/figures/298-whimsicott.shtml",
+	"Name": "Whimsicott",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Moonblast",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Cotton Guard",
+		"Notes": "In this Pokémon's next battle, it cannot be knocked out",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "298"
+}, {
+	"Url": "http://serebii.net/duel/figures/299-petilil.shtml",
+	"Name": "Petilil",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Grass Knot",
+		"Notes": "If the battle opponent's Attack is 120 damage or higher, the opponent is knocked out instead of this Pokémon.",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Sleep Powder",
+		"Notes": "The battle opponent falls asleep.",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "299"
+}, {
+	"Url": "http://serebii.net/duel/figures/300-lilligant.shtml",
+	"Name": "Lilligant",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "52",
+		"Name": "Petal Dance",
+		"Notes": "Spin again until Petal Dance does not land - damage is multiplied by the number of Petal Dance spins. This Pokémon becomes confused.",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Sleep Powder",
+		"Notes": "The battle opponent falls asleep.",
+		"Type": "Purple",
+		"Damage": "999"
+	}],
+	"Id": "300"
+}, {
+	"Url": "http://serebii.net/duel/figures/303-gothita.shtml",
+	"Name": "Gothita",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "44",
+		"Name": "Pound",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Psybeam",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes confused.",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "303"
+}, {
+	"Url": "http://serebii.net/duel/figures/304-gothorita.shtml",
+	"Name": "Gothorita",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "48",
+		"Name": "Double Slap",
+		"Notes": "Spin again - if Double Slap is spun, it deals 20+ damage",
+		"Type": "White",
+		"Damage": "40+"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Psybeam",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes confused",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "304"
+}, {
+	"Url": "http://serebii.net/duel/figures/305-gothitelle.shtml",
+	"Name": "Gothitelle",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "28",
+		"Name": "Psychic",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "70"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Squared Attack",
+		"Notes": "If there are Pokémon at three entry points, switch this Pokémon with another Pokémon on the field",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Psybeam",
+		"Notes": "If this Pokémon is knocked out, the battle opponent becomes confused",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "305"
+}, {
+	"Url": "http://serebii.net/duel/figures/306-solosis.shtml",
+	"Name": "Solosis",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "72",
+		"Name": "Psychic",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "306"
+}, {
+	"Url": "http://serebii.net/duel/figures/307-duosion.shtml",
+	"Name": "Duosion",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "40",
+		"Name": "Psychic",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Light Screen",
+		"Notes": "",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "307"
+}, {
+	"Url": "http://serebii.net/duel/figures/308-reuniclus.shtml",
+	"Name": "Reuniclus",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Brain Link",
+		"Notes": "Deals x2 damage if one of your own Reuniclus is within 2 steps of this Pokémon",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Hyper Beam",
+		"Notes": "If the battle opponent is knocked out, the next turn will always be the other player's",
+		"Type": "White",
+		"Damage": "120"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Confuse Ray",
+		"Notes": "The battle opponent becomes confused",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}],
+	"Id": "308"
+}, {
+	"Url": "http://serebii.net/duel/figures/309-joltik.shtml",
+	"Name": "Joltik",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Leech Life",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "30"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Electric Thread",
+		"Notes": "The battle opponent becomes paralyzed. The battle opponent gains Wait 3",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "309"
+}, {
+	"Url": "http://serebii.net/duel/figures/310-galvantula.shtml",
+	"Name": "Galvantula",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "44",
+		"Name": "Electro Ball",
+		"Notes": "If the battle opponent is paralyzed, deal x2 damage.",
+		"Type": "White",
+		"Damage": "60"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Electric Thread",
+		"Notes": "The battle opponent becomes paralyzed. The battle opponent gains Wait 3",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "310"
+}, {
+	"Url": "http://serebii.net/duel/figures/312-druddigon.shtml",
+	"Name": "Druddigon",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "12",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Revenge",
+		"Notes": "This attack's damage is boosted by the number of Pokémon in your P.C. +20",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Dragon Tail",
+		"Notes": "Benches your battle opponent (except when opponent has fainted). Your battle opponent must then Wait.",
+		"Type": "White",
+		"Damage": "50"
+	}],
+	"Id": "312"
+}, {
+	"Url": "http://serebii.net/duel/figures/314-heatmor.shtml",
+	"Name": "Heatmor",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Melt and Eat",
+		"Notes": "If the battle opponent's tpye is Steel, this Pokémon takes no damage and the opponent is knocked out. If the battle opponent is Durant, exclude that Durant from the duel",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Searing Shot",
+		"Notes": "The battle opponent becomes burned",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Fire Blast",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "60"
+	}],
+	"Id": "314"
+}, {
+	"Url": "http://serebii.net/duel/figures/315-durant.shtml",
+	"Name": "Durant",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Guillotine",
+		"Notes": "The battle opponent is knocked out",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Iron Head",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Rock Slide",
+		"Notes": "All neigbor Pokémon spin - those that miss are knocked out.",
+		"Type": "White",
+		"Damage": "30"
+	}],
+	"Id": "315"
+}, {
+	"Url": "http://serebii.net/duel/figures/316-cobalion.shtml",
+	"Name": "Cobalion",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Sword of Justice",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "101"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Quick Attack",
+		"Notes": "",
+		"Type": "Gold",
+		"Damage": "60"
+	}],
+	"Id": "316"
+}, {
+	"Url": "http://serebii.net/duel/figures/317-terrakion.shtml",
+	"Name": "Terrakion",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Sword of Justice",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "101"
+	}, {
+		"BaseWheelSize": "12",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Stone Edge",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "120"
+	}],
+	"Id": "317"
+}, {
+	"Url": "http://serebii.net/duel/figures/318-virizion.shtml",
+	"Name": "Virizion",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "24",
+		"Name": "Grass Knot",
+		"Notes": "If the battle opponent's Attack is 120 damage or higher, the opponent is knocked out instead of this Pokémon.",
+		"Type": "White",
+		"Damage": "40"
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Sword of Justice",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "101"
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Typhoon Slash",
+		"Notes": "This Pokémon may switch places with its battle opponent.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}],
+	"Id": "318"
+}, {
+	"Url": "http://serebii.net/duel/figures/323-phantump.shtml",
+	"Name": "Phantump",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Protect",
+		"Notes": "This Pokémon gains Wait",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "28",
+		"Name": "Confuse Ray",
+		"Notes": "The battle opponent becomes confused.",
+		"Type": "Purple",
+		"Damage": "999999999"
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Feint Attack",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "40"
+	}],
+	"Id": "323"
+}, {
+	"Url": "http://serebii.net/duel/figures/324-trevenant.shtml",
+	"Name": "Trevenant",
+	"Movement": "1",
+	"Moves": [{
+		"BaseWheelSize": "32",
+		"Name": "Manipulative",
+		"Notes": "One other Grass-type Pokémon on the field (that is not frozen) may be moved within its MP range. The moved Pokémon gains Wait. If the moved Pokémon is one of the opponent's Pokémon, that Pokémon falls asleep.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Destiny Bond",
+		"Notes": "If this Pokémon is knocked out, so is the battle opponent",
+		"Type": "White",
+		"Damage": "0"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "40",
+		"Name": "Smash",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "110"
+	}],
+	"Id": "324"
+}, {
+	"Url": "http://serebii.net/duel/figures/329-noibat.shtml",
+	"Name": "Noibat",
+	"Movement": "3",
+	"Moves": [{
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Whirlwind",
+		"Notes": "The battle opponent is moved to the bench and gains Wait.",
+		"Type": "Purple",
+		"Damage": "999"
+	}, {
+		"BaseWheelSize": "32",
+		"Name": "Air Cutter",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "20"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Supersonic",
+		"Notes": "The battle opponent becomes confused.",
+		"Type": "Purple",
+		"Damage": "999999"
+	}, {
+		"BaseWheelSize": "4",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "16",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}],
+	"Id": "329"
+}, {
+	"Url": "http://serebii.net/duel/figures/330-noivern.shtml",
+	"Name": "Noivern",
+	"Movement": "2",
+	"Moves": [{
+		"BaseWheelSize": "8",
+		"Name": "Miss",
+		"Notes": "",
+		"Type": "Red",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "36",
+		"Name": "Boomburst",
+		"Notes": "An opposing Pokémon adjacent to the battle opponent spins, and if it spins a Gold Attack then it is knocked out.",
+		"Type": "White",
+		"Damage": "100"
+	}, {
+		"BaseWheelSize": "20",
+		"Name": "Dragon Pulse",
+		"Notes": "",
+		"Type": "White",
+		"Damage": "50"
+	}, {
+		"BaseWheelSize": "8",
+		"Name": "Dodge",
+		"Notes": "",
+		"Type": "Blue",
+		"Damage": ""
+	}, {
+		"BaseWheelSize": "24",
+		"Name": "Hurricane",
+		"Notes": "Your opponent's Flying-type Pokémon on the field gain Wait 3",
+		"Type": "Purple",
+		"Damage": "999999"
+	}],
+	"Id": "330"
+}]

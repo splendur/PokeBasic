@@ -314,6 +314,7 @@ namespace PokeBasic.Entities
             }
             
             dest.Occupant = source.Occupant;
+            dest.Occupant.DistanceMoved++;
             source.Occupant = null;
         }
 
@@ -328,6 +329,16 @@ namespace PokeBasic.Entities
                 }
             }
             return boardPokes;
+        }
+
+        public Position GetPokePosition(Poke poke)
+        {
+            foreach (var pos in _Board)
+            {
+                if (pos != null && pos.Occupant != null && pos.Occupant.Coords == poke.Coords && pos.Occupant.Id == poke.Id)
+                    return pos;
+            }
+            return null;
         }
 
         public override string ToString()

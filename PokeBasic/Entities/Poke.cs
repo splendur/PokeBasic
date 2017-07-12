@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static PokeBasic.Handler.PokeFinder;
 
 namespace PokeBasic.Entities
 {
@@ -16,7 +17,10 @@ namespace PokeBasic.Entities
         public int Id { get; set; }
         public int Id_Pokemon { get; set; }
         public int Movement { get; set; }
+        public int DistanceMoved { get; set; }
         public List<Move> Moves { get; set; }
+        public Teams Team { get; set; }
+        public bool CanMove { get { return (DistanceMoved < Movement); } }
 
         public Poke()
         {
@@ -26,6 +30,8 @@ namespace PokeBasic.Entities
             Movement = -1;
             Id_Pokemon = -1;
             Moves = new List<Move>();
+            Team = Teams.Undefined;
+            DistanceMoved = 0;
         }
 
         public Poke(string name, string url, int id, int movement)
@@ -36,6 +42,8 @@ namespace PokeBasic.Entities
             Movement = movement;
             Id_Pokemon = -1;
             Moves = new List<Move>();
+            Team = Teams.Undefined;
+            DistanceMoved = 0;
         }
 
         public Poke(string name, string url, int id, int movement, List<JToken> moves)
@@ -50,12 +58,16 @@ namespace PokeBasic.Entities
             {
                 Moves.Add(new Move((string)move["Name"], (string)move["Notes"], (string)move["Type"], (int)move["BaseWheelSize"], (string)move["Damage"]));
             }
+            Team = Teams.Undefined;
+            DistanceMoved = 0;
         }
-        
+
         public Poke(string name, int x, int y)
         {
             this.Name = name;
             Coords = new Coords(x, y);
+            Team = Teams.Undefined;
+            DistanceMoved = 0;
         }
 
 

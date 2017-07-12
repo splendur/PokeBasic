@@ -15,11 +15,15 @@ namespace PokeBasic.Entities
         public string Id;
         public Board Board;
         public BoardTreeNode Parent { get; private set; }
+        public int PokeDistanceMoved { get; set; }
+        public Poke PokeMoved { get; set; }
+        public bool HasBeenLinked { get; set; }
 
         public BoardTreeNode(Board Board)
         {
             this.Board = Board;
             this.Id = Board.Signature;
+            this.HasBeenLinked = false;
         }
 
         public BoardTreeNode GetChild(string BoardId)
@@ -36,8 +40,11 @@ namespace PokeBasic.Entities
 
             //if (!IdExistsInTree(item.Id))
             //{
+            if ( item.Id != this.Id && !this._children.Values.Any(c => (c.Id.Equals(item.Id))))
+            {
                 item.Parent = this;
                 this._children.Add(item.Id, item);
+            }
                 //Console.WriteLine("----------------------------------------------------");
                 //this.TreeToString();
                 //Console.WriteLine("----------------------------------------------------");

@@ -20,7 +20,8 @@ namespace PokeBasic.Handler
         public enum Teams
         {
             Own,
-            Opponent
+            Opponent,
+            Undefined
         }
 
         private static readonly List<Color> TeamColors =
@@ -42,6 +43,7 @@ namespace PokeBasic.Handler
                     var tPoke = new Poke(Path.GetFileNameWithoutExtension(fileName), match.Rectangle.X, match.Rectangle.Y);
                     var ttPoke = DBHandler.getPoke(tPoke);
                     ttPoke.Coords = tPoke.Coords;
+                    ttPoke.Team = team;
                     result.Add(ttPoke);
                 }
             }

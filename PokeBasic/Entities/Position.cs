@@ -4,6 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static PokeBasic.Handler.PokeFinder;
 
 namespace PokeBasic.Entities
 {
@@ -16,6 +17,7 @@ namespace PokeBasic.Entities
         public List<Coords> Links { get; set; }
         public Coords Coords { get; set; }
         public Coords SelfCoords { get; set; }
+        public Teams Team { get; set; }
 
         public Position()
         {
@@ -24,6 +26,7 @@ namespace PokeBasic.Entities
             Coords = new Coords(0,0);
             SelfCoords = new Coords(0, 0);
             guid = Guid.NewGuid();
+            Team = Teams.Undefined;
         }
 
         public Position(int x, int y)
@@ -33,6 +36,7 @@ namespace PokeBasic.Entities
             Coords = new Coords(x, y);
             SelfCoords = new Coords(0, 0);
             guid = Guid.NewGuid();
+            Team = Teams.Undefined;
         }
 
         public Position(List<Coords> links, int x, int y)
@@ -42,15 +46,17 @@ namespace PokeBasic.Entities
             Coords = new Coords(x, y);
             SelfCoords = new Coords(0, 0);
             guid = Guid.NewGuid();
+            Team = Teams.Undefined;
         }
 
-        public Position(List<Coords> links, int x, int y, int selfx)
+        public Position(List<Coords> links, int x, int y, int selfx, Teams team)
         {
             Active = true;
             Links = links;
             Coords = new Coords(x, y);
             SelfCoords = new Coords(selfx, -1);
             guid = Guid.NewGuid();
+            Team = team;
         }
 
         public string getOcupantName()

@@ -18,12 +18,14 @@ namespace PokeBasic.Entities
         public int PokeDistanceMoved { get; set; }
         public Poke PokeMoved { get; set; }
         public bool HasBeenLinked { get; set; }
+        public int Depth { get; set; }
 
         public BoardTreeNode(Board Board)
         {
             this.Board = Board;
             this.Id = Board.Signature;
             this.HasBeenLinked = false;
+            this.Depth = 0;
         }
 
         public BoardTreeNode GetChild(string BoardId)
@@ -43,6 +45,7 @@ namespace PokeBasic.Entities
             if ( item.Id != this.Id && !this._children.Values.Any(c => (c.Id.Equals(item.Id))))
             {
                 item.Parent = this;
+                item.Depth = this.Depth + 1;
                 this._children.Add(item.Id, item);
             }
                 //Console.WriteLine("----------------------------------------------------");
@@ -72,6 +75,28 @@ namespace PokeBasic.Entities
             while (result.Parent != null)
             {
                 result = result.Parent;
+            }
+            return result;
+        }
+
+        public List<BoardTreeNode> GetNodesAtLevel(int level)
+        {
+            var result= new List<BoardTreeNode>();
+
+            if (this.Depth == level)
+            {
+                result.Add(this);
+            }
+            else if (this._children.Count > 0 && this._children.ElementAt(0).Value.Depth == level)
+            {
+                result = this._children.Values.ToList();
+            }
+            else
+            {
+                foreach (var child in _children.Values)
+                {
+                    result.AddRange(child.GetNodesAtLevel(level));
+                }
             }
             return result;
         }
@@ -121,35 +146,37 @@ namespace PokeBasic.Entities
             return Board.Signature;
         }
 
-        public void LevelToString(string indent, bool last)
+        public string LevelToString(string indent, bool last)
         {
-            Console.Write(indent);
+            var res = new StringBuilder();
+            res.Append(indent);
             if (last)
             {
-                Console.Write("\\-");
+                res.Append("\\-");
                 indent += "  ";
             }
             else
             {
-                Console.Write("|-");
+                res.Append("|-");
                 indent += "| ";
             }
-            Console.WriteLine(this.Board.Signature);
+            res.AppendFormat("{0}:{1}\n", this.Depth, this.Board.Signature);
 
             //for (int i = 0; i < this._children.Count; i++)
 
             int i = 0;
             foreach (var ch in this._children.Values)
             {
-                ch.LevelToString(indent, i == this._children.Count - 1);
+                res.Append(ch.LevelToString(indent, i == this._children.Count - 1));
             }
+            return res.ToString();
         }
 
-        public void TreeToString()
+        public string TreeToString()
         {
             var result = new StringBuilder();
             var root = this.GetRoot();
-            root.LevelToString("", true);
+            return root.LevelToString("", true);
         }
     }
 }

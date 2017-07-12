@@ -21,39 +21,64 @@ namespace PokeBasic.Entities
 
         public string ReactorDepth(int depth)
         {
-            Console.WriteLine("Reactor depth {0}", depth);
-            var boardPokes = rootBoardTree.Board.GetOccupiedBoard().Where(oc => (oc.Occupant.Team.Equals(Teams.Own) && oc.Occupant.CanMove));
-            foreach (var occupier in boardPokes)
+            var currentTeam = Teams.Own;
+            var currentTeamAlternator = true;
+            for (int i = 0; i < depth; i++)
             {
-                MoveToLinks(occupier);
-            }
-
-            var movablePokes = rootBoardTree._children.Values.Where(cv => (cv.PokeMoved.CanMove && !cv.HasBeenLinked));
-            while (movablePokes.Count() > 0)
-            {
-                for (int i = 0; i < movablePokes.Count(); i++)
+                currentTeam = currentTeamAlternator ? Teams.Own : Teams.Opponent;
+                currentTeamAlternator = !currentTeamAlternator;
+                List<BoardTreeNode> nodesAtDepth = rootBoardTree.GetNodesAtLevel(i);
+                
+                Console.WriteLine("Reactor depth {0}, team {1}", i, currentTeam.ToString());
+                foreach (var nodeAtDepth in nodesAtDepth)
                 {
-                    var movablePoke = movablePokes.ElementAt(i);
-                    var pokeToMove = movablePoke.Board.GetPokePosition(movablePoke.PokeMoved);
-                    MoveToLinks(pokeToMove, movablePoke.Board, rootBoardTree);
+                    if (nodeAtDepth.PokeMoved != null)
+                    {
+                        nodeAtDepth.Board.GetPokePosition(nodeAtDepth.PokeMoved).Occupant.DistanceMoved = 0;
+                        nodeAtDepth.PokeDistanceMoved = 0;
+                    }
+                    var benchPokes = new List<Position>();
+                    if (currentTeam.Equals(Teams.Own))
+                    {
+                        benchPokes = nodeAtDepth.Board._MyBench.Where(mb => (mb.Occupant != null && mb.SelfCoords.x < 6)).ToList();
+                    }
+                    else
+                    {
+                        benchPokes = nodeAtDepth.Board._OpponentBench.Where(mb => (mb.Occupant != null && mb.SelfCoords.x < 6)).ToList();
+                    }
+                    foreach (var benchPoke in benchPokes)
+                    {
+                        benchPoke.Occupant.Movement--;
+                        MoveToBoard(benchPoke, nodeAtDepth.Board, nodeAtDepth, true);
+                    }
+
+                    var boardPokes = nodeAtDepth.Board.GetOccupiedBoard().Where(oc => (oc.Occupant.Team.Equals(currentTeam) && oc.Occupant.CanMove));
+                    foreach (var occupier in boardPokes)
+                    {
+                        MoveToLinks(occupier, nodeAtDepth.Board, nodeAtDepth, true);
+                    }
+
+                    var movablePokes = nodeAtDepth._children.Values.Where(cv => (cv.PokeMoved.CanMove && !cv.HasBeenLinked));
+                    while (movablePokes.Count() > 0)
+                    {
+                        for (int k = 0; k < movablePokes.Count(); k++)
+                        {
+                            var movablePoke = movablePokes.ElementAt(k);
+                            var pokeToMove = movablePoke.Board.GetPokePosition(movablePoke.PokeMoved);
+                            MoveToLinks(pokeToMove, movablePoke.Board, nodeAtDepth);
+                        }
+                        movablePokes = nodeAtDepth._children.Values.Where(cv => (cv.PokeMoved.CanMove && !cv.HasBeenLinked));
+                    }
+
                 }
+            }
+            //TODO distance move reset
+            //Console.Write(rootBoardTree.TreeToString());
 
-                //foreach (var movablePoke in movablePokes)
-                //{
-                    
-                //}
-                movablePokes = rootBoardTree._children.Values.Where(cv => (cv.PokeMoved.CanMove && !cv.HasBeenLinked));
-            } 
-
-            //foreach (var child in rootBoardTree._children.Values)
-            //{
-            //    Console.Write(child.Board.ToString());
-            //}
-            rootBoardTree.TreeToString();
             return string.Empty;
         }
 
-        private void MoveToLinks(Position occupier, Board board, BoardTreeNode boardNode)
+        private void MoveToLinks(Position occupier, Board board, BoardTreeNode boardNode, bool first = false)
         {
             foreach (var link in occupier.Links)
             {
@@ -67,7 +92,36 @@ namespace PokeBasic.Entities
                     boardNode.Add(treeNode);
                 }
             }
-            boardNode.GetChild(board.Signature).HasBeenLinked = true;
+            if (!first) boardNode.GetChild(board.Signature).HasBeenLinked = true;
+        }
+
+        private void MoveToBoard(Position occupier, Board board, BoardTreeNode boardNode, bool first = false)
+        {
+            var sourceBench = occupier.Team.Equals(Teams.Own) ? board._MyBench : board._OpponentBench;
+            var links = new List<Coords>();
+            if (occupier.Team.Equals(Teams.Own))
+            {
+                links.Add(new Coords(4, 0));
+                links.Add(new Coords(4, 6));
+            }
+            else
+            {
+                links.Add(new Coords(0, 0));
+                links.Add(new Coords(0, 6));
+            }
+            foreach (var link in links)
+            {
+                if (occupier.Occupant.CanMove && board._Board[link.x, link.y].Occupant == null)
+                {
+                    var cloneBoard = DeepClone(board);
+                    cloneBoard.movePokemon(occupier.guid, cloneBoard._Board[link.x, link.y].guid);
+                    var treeNode = new BoardTreeNode(cloneBoard);
+                    treeNode.PokeMoved = treeNode.Board._Board[link.x, link.y].Occupant;
+                    treeNode.PokeDistanceMoved++;
+                    boardNode.Add(treeNode);
+                }
+            }
+            if (!first) boardNode.GetChild(board.Signature).HasBeenLinked = true;
         }
 
         private void MoveToLinks(Position occupier)

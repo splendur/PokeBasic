@@ -7,6 +7,7 @@ using System.Runtime.Remoting.Messaging;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Threading.Tasks;
+using static PokeBasic.Handler.PokeFinder;
 
 namespace PokeBasic.Entities
 {
@@ -250,28 +251,28 @@ namespace PokeBasic.Entities
 
             #region MyBench Setup
             _MyBench = new Position[8];
-            _MyBench[0] = new Position(null, 35,365, 0);
-            _MyBench[1] = new Position(null, 73, 399, 1);
-            _MyBench[2] = new Position(null, 108, 365, 2);
-            _MyBench[3] = new Position(null, 143, 399, 3);
-            _MyBench[4] = new Position(null, 178, 365, 4);
-            _MyBench[5] = new Position(null, 218, 399, 5);
+            _MyBench[0] = new Position(null, 35,365, 0, Teams.Own);
+            _MyBench[1] = new Position(null, 73, 399, 1, Teams.Own);
+            _MyBench[2] = new Position(null, 108, 365, 2, Teams.Own);
+            _MyBench[3] = new Position(null, 143, 399, 3, Teams.Own);
+            _MyBench[4] = new Position(null, 178, 365, 4, Teams.Own);
+            _MyBench[5] = new Position(null, 218, 399, 5, Teams.Own);
             //Dead                                    
-            _MyBench[6] = new Position(null, 254, 365, 6);
-            _MyBench[7] = new Position(null, 308, 365, 7);
+            _MyBench[6] = new Position(null, 254, 365, 6, Teams.Own);
+            _MyBench[7] = new Position(null, 308, 365, 7, Teams.Own);
             #endregion
 
             #region OpponentBench Setup
             _OpponentBench = new Position[8];
-            _OpponentBench[0] = new Position(null, 121, 30, 0);
-            _OpponentBench[1] = new Position(null, 151, 49, 1);
-            _OpponentBench[2] = new Position(null, 183, 30, 2);
-            _OpponentBench[3] = new Position(null, 213, 49, 3);
-            _OpponentBench[4] = new Position(null, 243, 30, 4);
-            _OpponentBench[5] = new Position(null, 274, 49, 5);
+            _OpponentBench[0] = new Position(null, 121, 30, 0, Teams.Opponent);
+            _OpponentBench[1] = new Position(null, 151, 49, 1, Teams.Opponent);
+            _OpponentBench[2] = new Position(null, 183, 30, 2, Teams.Opponent);
+            _OpponentBench[3] = new Position(null, 213, 49, 3, Teams.Opponent);
+            _OpponentBench[4] = new Position(null, 243, 30, 4, Teams.Opponent);
+            _OpponentBench[5] = new Position(null, 274, 49, 5, Teams.Opponent);
             //Dead                                        
-            _OpponentBench[6] = new Position(null, 39, 49, 6);
-            _OpponentBench[7] = new Position(null, 83, 49, 7);
+            _OpponentBench[6] = new Position(null, 39, 49, 6, Teams.Opponent);
+            _OpponentBench[7] = new Position(null, 83, 49, 7, Teams.Opponent);
             #endregion
 
         }

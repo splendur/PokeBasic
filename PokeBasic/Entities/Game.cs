@@ -21,6 +21,7 @@ namespace PokeBasic.Entities
 
         public Game(PictureBox pictureBox1)
         {
+            var start = DateTime.Now.ToString();
             OpponentTeam = new List<Poke>();
             OwnTeam = new List<Poke>();
             Board = new Board();
@@ -69,7 +70,7 @@ namespace PokeBasic.Entities
         public string makeDecision()
         {
             var decision = new DecisionMaker(Board);
-            var NextMove = decision.ReactorDepth(5);
+            var NextMove = decision.ReactorDepth(3);
             return string.Empty;
         }
 

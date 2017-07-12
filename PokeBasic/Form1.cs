@@ -37,9 +37,11 @@ namespace PokeBasic
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            var start = DateTime.Now.ToString();
             var game = new Game(pictureBox1);
             var decision = game.makeDecision();
+            Console.WriteLine(start);
+            Console.WriteLine(DateTime.Now.ToString());
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)

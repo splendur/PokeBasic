@@ -82,6 +82,7 @@ namespace PokeBasic.Model
                 Pokemon = m_dbConnection.Query<Poke>(String.Format("Select * from Pokemons where Name = '{0}' LIMIT 1", poke.Name)).FirstOrDefault();
                 List<Move> pokeMoves = m_dbConnection.Query<Move>(String.Format("Select Moves.Id, Moves.Name, Moves.Type, PokemonMoves.Damage ,PokemonMoves.BaseWheelSize, Moves.Description From PokemonMoves inner join Pokemons on PokemonMoves.Id_Pokemon = Pokemons.Id and Pokemons.Id = {0} inner join Moves on Moves.Id = PokemonMoves.Id_Moves", Pokemon.Id)).ToList();
                 Pokemon.Moves = pokeMoves;
+                Pokemon.OriginalMovement = Pokemon.Movement;
             }
 
             return Pokemon;

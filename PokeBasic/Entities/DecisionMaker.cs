@@ -30,12 +30,14 @@ namespace PokeBasic.Entities
                 List<BoardTreeNode> nodesAtDepth = rootBoardTree.GetNodesAtLevel(i);
                 
                 Console.WriteLine("Reactor depth {0}, team {1}", i, currentTeam.ToString());
-                foreach (var nodeAtDepth in nodesAtDepth)
+                //foreach (var nodeAtDepth in nodesAtDepth)
+                Parallel.ForEach(nodesAtDepth, (nodeAtDepth) =>
                 {
                     if (nodeAtDepth.PokeMoved != null)
                     {
                         nodeAtDepth.Board.GetPokePosition(nodeAtDepth.PokeMoved).Occupant.DistanceMoved = 0;
                         nodeAtDepth.PokeDistanceMoved = 0;
+                        nodeAtDepth.PokeMoved.Movement = nodeAtDepth.PokeMoved.OriginalMovement;
                     }
                     var benchPokes = new List<Position>();
                     if (currentTeam.Equals(Teams.Own))
@@ -69,11 +71,11 @@ namespace PokeBasic.Entities
                         }
                         movablePokes = nodeAtDepth._children.Values.Where(cv => (cv.PokeMoved.CanMove && !cv.HasBeenLinked));
                     }
-
-                }
+                });
             }
-            //TODO distance move reset
             //Console.Write(rootBoardTree.TreeToString());
+
+            System.IO.File.WriteAllText(@"C:\Users\FrIcK\Documents\Visual Studio 2017\Projects\PokeBasic\PokeBasic\bin\Debug\OutPutTree.txt", rootBoardTree.TreeToString());
 
             return string.Empty;
         }

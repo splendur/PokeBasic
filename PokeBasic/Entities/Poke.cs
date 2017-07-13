@@ -17,6 +17,7 @@ namespace PokeBasic.Entities
         public int Id { get; set; }
         public int Id_Pokemon { get; set; }
         public int Movement { get; set; }
+        public int OriginalMovement { get; set; }
         public int DistanceMoved { get; set; }
         public List<Move> Moves { get; set; }
         public Teams Team { get; set; }
@@ -28,6 +29,7 @@ namespace PokeBasic.Entities
             Url = string.Empty;
             Id = -1;
             Movement = -1;
+            OriginalMovement = -1;
             Id_Pokemon = -1;
             Moves = new List<Move>();
             Team = Teams.Undefined;
@@ -40,6 +42,7 @@ namespace PokeBasic.Entities
             Url = url.Replace("'", "''");
             Id = id;
             Movement = movement;
+            OriginalMovement = movement;
             Id_Pokemon = -1;
             Moves = new List<Move>();
             Team = Teams.Undefined;
@@ -52,6 +55,7 @@ namespace PokeBasic.Entities
             Url = url.Replace("'", "''");
             Id = id;
             Movement = movement;
+            OriginalMovement = movement;
             Id_Pokemon = -1;
             Moves = new List<Move>();
             foreach (var move in moves)

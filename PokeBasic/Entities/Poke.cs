@@ -22,6 +22,7 @@ namespace PokeBasic.Entities
         public List<Move> Moves { get; set; }
         public Teams Team { get; set; }
         public bool CanMove { get { return (DistanceMoved < Movement); } }
+        public int Encounters { get; set; }
 
         public Poke()
         {
@@ -34,6 +35,7 @@ namespace PokeBasic.Entities
             Moves = new List<Move>();
             Team = Teams.Undefined;
             DistanceMoved = 0;
+            Encounters = 0;
         }
 
         public Poke(string name, string url, int id, int movement)
@@ -47,6 +49,7 @@ namespace PokeBasic.Entities
             Moves = new List<Move>();
             Team = Teams.Undefined;
             DistanceMoved = 0;
+            Encounters = 0;
         }
 
         public Poke(string name, string url, int id, int movement, List<JToken> moves)
@@ -64,6 +67,7 @@ namespace PokeBasic.Entities
             }
             Team = Teams.Undefined;
             DistanceMoved = 0;
+            Encounters = 0;
         }
 
         public Poke(string name, int x, int y)
@@ -72,6 +76,7 @@ namespace PokeBasic.Entities
             Coords = new Coords(x, y);
             Team = Teams.Undefined;
             DistanceMoved = 0;
+            Encounters = 0;
         }
 
 

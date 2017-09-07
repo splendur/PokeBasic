@@ -84,8 +84,28 @@ namespace PokeBasic.Model
                 Pokemon.Moves = pokeMoves;
                 Pokemon.OriginalMovement = Pokemon.Movement;
             }
-
             return Pokemon;
+        }
+
+        public static void IncrementPokemonsEncounter(List<Poke> Pokes)
+        {
+            using (SQLiteConnection m_dbConnection = new SQLiteConnection(String.Format("Data Source={0};Version=3;", filePath)))
+            {
+                foreach (var Poke in Pokes)
+                {
+                    m_dbConnection.Execute(string.Format("Update Pokemons Set Encounters = Encounters + 1 Where Pokemons.Name = '{0}'", Poke.Name));
+                }
+            }
+        }
+
+        public static List<string> GetPokeNameByEncounter()
+        {
+            var result = new List<string>();
+            using (SQLiteConnection m_dbConnection = new SQLiteConnection(String.Format("Data Source={0};Version=3;", filePath)))
+            {
+                result = m_dbConnection.Query<string>("Select Name from Pokemons order by Encounters desc").ToList();
+            }
+            return result;
         }
     }
 }
